@@ -1,0 +1,2674 @@
+  :root {
+
+    // Red
+
+    --rgb-amaranth-purple: rgb(171, 39, 79);
+    --hex-amaranth-purple: #ab274f;
+    --hsl-amaranth-purple: hsl(341.82, 62.86%, 41.18%);
+
+    --rgb-barn-red: rgb(124, 9, 2);
+    --hex-barn-red: #7c0902;
+    --hsl-barn-red: hsl(3.44, 96.83%, 24.71%);
+
+    --rgb-bittersweet: rgb(254, 111, 94);
+    --hex-bittersweet: #fe6f5e;
+    --hsl-bittersweet: hsl(6.37, 98.77%, 68.24%);
+
+    --rgb-bittersweet-shimmer: rgb(191, 79, 81);
+    --hex-bittersweet-shimmer: #bf4f51;
+    --hsl-bittersweet-shimmer: hsl(358.93, 46.67%, 52.94%);
+
+    --rgb-blood-red: rgb(102, 0, 0);
+    --hex-blood-red: #660000;
+    --hsl-blood-red: hsl(0, 100%, 20%);
+
+    --rgb-bright-pink-crayola: rgb(251, 96, 127);
+    --hex-bright-pink-crayola: #fb607f;
+    --hsl-bright-pink-crayola: hsl(345.71, 95.69%, 68.04%);
+
+    --rgb-burgundy: rgb(128, 0, 32);
+    --hex-burgundy: #800020;
+    --hsl-burgundy: hsl(345, 100%, 25.1%);
+
+    --rgb-candy-apple-red: rgb(255, 8, 0);
+    --hex-candy-apple-red: #ff0800;
+    --hsl-candy-apple-red: hsl(0, 100%, 50.2%);
+
+    --rgb-cantaloupe-melon: rgb(253, 188, 180);
+    --hex-cantaloupe-melon: #fdbcb4;
+    --hsl-cantaloupe-melon: hsl(15, 100%, 85.1%);
+
+    --rgb-cardinal: rgb(197, 30, 58);
+    --hex-cardinal: #c51e3a;
+    --hsl-cardinal: hsl(348, 70%, 43.1%);
+
+    --rgb-carmine: rgb(150, 0, 24);
+    --hex-carmine: #960018;
+    --hsl-carmine: hsl(348, 100%, 29.4%);
+
+    --rgb-cerise: rgb(222, 49, 99);
+    --hex-cerise: #de3163;
+    --hsl-cerise: hsl(345, 77%, 53.9%);
+
+    --rgb-chili-red: rgb(226, 61, 40);
+    --hex-chili-red: #e23d28;
+    --hsl-chili-red: hsl(6.67, 75.69%, 53.33%);
+
+    --rgb-chocolate-cosmos: rgb(88, 17, 26);
+    --hex-chocolate-cosmos: #58111a;
+    --hsl-chocolate-cosmos: hsl(349.09, 67.65%, 21.18%);
+
+    --rgb-cinnabar: rgb(228, 77, 46);
+    --hex-cinnabar: #e44d2e;
+    --hsl-cinnabar: hsl(9.6, 75.69%, 54.71%);
+
+    --rgb-claret: rgb(127, 23, 52);
+    --hex-claret: #7f1734;
+    --hsl-claret: hsl(342.86, 69.23%, 30.98%);
+
+    --rgb-coquelicot: rgb(255, 56, 0);
+    --hex-coquelicot: #ff3800;
+    --hsl-coquelicot: hsl(9.6, 100%, 50%);
+
+    --rgb-coral-pink: rgb(248, 131, 121);
+    --hex-coral-pink: #f88379;
+    --hsl-coral-pink: hsl(5.45, 85.71%, 74.51%);
+
+    --rgb-cordovan: rgb(137, 63, 69);
+    --hex-cordovan: #893f45;
+    --hsl-cordovan: hsl(353.33, 37.5%, 40.98%);
+
+    --rgb-cornell-red: rgb(179, 27, 27);
+    --hex-cornell-red: #b31b1b;
+    --hsl-cornell-red: hsl(0, 74.19%, 40.98%);
+
+    --rgb-crimson: rgb(220, 20, 60);
+    --hex-crimson: #dc143c;
+    --hsl-crimson: hsl(348.46, 83.33%, 47.06%);
+
+    --rgb-dark-red: rgb(139, 0, 0);
+    --hex-dark-red: #8b0000;
+    --hsl-dark-red: hsl(0, 100%, 27.25%);
+
+    --rgb-falu-red: rgb(128, 24, 24);
+    --hex-falu-red: #801818;
+    --hsl-falu-red: hsl(0, 68.57%, 29.41%);
+
+    --rgb-fire-brick: rgb(178, 34, 34);
+    --hex-fire-brick: #b22222;
+    --hsl-fire-brick: hsl(0, 68.57%, 41.18%);
+
+    --rgb-fire-engine-red: rgb(206, 32, 41);
+    --hex-fire-engine-red: #ce2029;
+    --hsl-fire-engine-red: hsl(357.27, 73.33%, 47.25%);
+
+    --rgb-folly: rgb(255, 0, 79);
+    --hex-folly: #ff004f;
+    --hsl-folly: hsl(341.82, 100%, 50%);
+
+    --rgb-garnet: rgb(115, 54, 53);
+    --hex-garnet: #733635;
+    --hsl-garnet: hsl(1.03, 37.5%, 35.1%);
+
+    --rgb-imperial-red: rgb(237, 41, 57);
+    --hex-imperial-red: #ed2939;
+    --hsl-imperial-red: hsl(354.55, 82.61%, 54.71%);
+
+    --rgb-indian-red: rgb(205, 92, 92);
+    --hex-indian-red: #cd5c5c;
+    --hsl-indian-red: hsl(0, 53.33%, 58.82%);
+
+    --rgb-jasper: rgb(208, 83, 64);
+    --hex-jasper: #d05340;
+    --hsl-jasper: hsl(8.57, 59.26%, 55.1%);
+
+    --rgb-light-coral: rgb(240, 128, 128);
+    --hex-light-coral: #f08080;
+    --hsl-light-coral: hsl(0, 72.73%, 72.16%);
+
+    --rgb-light-red: rgb(255, 127, 127);
+    --hex-light-red: #ff7f7f;
+    --hsl-light-red: hsl(0, 100%, 77.45%);
+
+    --rgb-madder: rgb(165, 0, 33);
+    --hex-madder: #a50021;
+    --hsl-madder: hsl(348.46, 100%, 32.35%);
+
+    --rgb-mahogany: rgb(192, 64, 0);
+    --hex-mahogany: #c04000;
+    --hsl-mahogany: hsl(15, 100%, 37.65%);
+
+    --rgb-maroon: rgb(128, 0, 0);
+    --hex-maroon: #800000;
+    --hsl-maroon: hsl(0, 100%, 25.1%);
+
+    --rgb-misty-rose: rgb(255, 228, 225);
+    --hex-misty-rose: #ffe4e1;
+    --hsl-misty-rose: hsl(6, 100%, 97.06%);
+
+    --rgb-off-red-rgb: rgb(254, 0, 0);
+    --hex-off-red-rgb: #fe0000;
+    --hsl-off-red-rgb: hsl(0, 100%, 50.2%);
+
+    --rgb-old-rose: rgb(192, 128, 129);
+    --hex-old-rose: #c08081;
+    --hsl-old-rose: hsl(0, 33.33%, 64.12%);
+
+    --rgb-ou-crimson: rgb(132, 22, 23);
+    --hex-ou-crimson: #841617;
+    --hsl-ou-crimson: hsl(359.09, 70.91%, 30.59%);
+
+    --rgb-penn-red: rgb(153, 0, 0);
+    --hex-penn-red: #990000;
+    --hsl-penn-red: hsl(0, 100%, 30%);
+
+    --rgb-persian-red: rgb(204, 51, 51);
+    --hex-persian-red: #cc3333;
+    --hsl-persian-red: hsl(0, 60%, 52.35%);
+
+    --rgb-pink: rgb(255, 192, 203);
+    --hex-pink: #ffc0cb;
+    --hsl-pink: hsl(350, 100%, 88.82%);
+
+    --rgb-poppy: rgb(220, 52, 59);
+    --hex-poppy: #dc343b;
+    --hsl-poppy: hsl(358.18, 68.57%, 54.71%);
+
+    --rgb-red: rgb(255, 0, 0);
+    --hex-red: #ff0000;
+    --hsl-red: hsl(0, 100%, 50%);
+
+    --rgb-red-brown: rgb(165, 42, 42);
+    --hex-red-brown: #a52a2a;
+    --hsl-red-brown: hsl(0, 59.42%, 41.18%);
+
+    --rgb-red-cmyk: rgb(237, 27, 36);
+    --hex-red-cmyk: #ed1b24;
+    --hsl-red-cmyk: hsl(357.27, 89.47%, 50.59%);
+
+    --rgb-red-crayola: rgb(238, 32, 78);
+    --hex-red-crayola: #ee204e;
+    --hsl-red-crayola: hsl(342.86, 84.62%, 54.71%);
+
+    --rgb-red-munsell: rgb(242, 0, 60);
+    --hex-red-munsell: #f2003c;
+    --hsl-red-munsell: hsl(345.71, 100%, 47.25%);
+
+    --rgb-red-ncs: rgb(196, 2, 52);
+    --hex-red-ncs: #c40234;
+    --hsl-red-ncs: hsl(351.43, 97.06%, 38.82%);
+
+    --rgb-red-pantone: rgb(237, 40, 57);
+    --hex-red-pantone: #ed2839;
+    --hsl-red-pantone: hsl(354.55, 82.61%, 54.71%);
+
+    --rgb-redwood: rgb(171, 78, 82);
+    --hex-redwood: #ab4e52;
+    --hsl-redwood: hsl(358.18, 31.82%, 52.35%);
+
+    --rgb-rojo: rgb(230, 0, 38);
+    --hex-rojo: #e60026;
+    --hsl-rojo: hsl(351.43, 100%, 45.1%);
+
+    --rgb-rose: rgb(255, 0, 128);
+    --hex-rose: #ff0080;
+    --hsl-rose: hsl(320, 100%, 50%);
+
+    --rgb-rose-ebony: rgb(103, 72, 70);
+    --hex-rose-ebony: #674846;
+    --hsl-rose-ebony: hsl(3.33, 19.05%, 34.12%);
+
+    --rgb-rose-red: rgb(194, 30, 86);
+    --hex-rose-red: #c21e56;
+    --hsl-rose-red: hsl(337.5, 74.07%, 44.71%);
+
+    --rgb-rose-taupe: rgb(144, 93, 93);
+    --hex-rose-taupe: #905d5d;
+    --hsl-rose-taupe: hsl(0, 21.43%, 47.25%);
+
+    --rgb-rose-vale: rgb(171, 78, 82);
+    --hex-rose-vale: #AB4E52;
+    --hsl-rose-vale: hsl(357.42, 37.35%, 48.82%);
+
+    --rgb-rosewood: rgb(101, 0, 11);
+    --hex-rosewood: #65000b;
+    --hsl-rosewood: hsl(351.43, 100%, 19.8%);
+
+    --rgb-rosy-brown: rgb(188, 143, 143);
+    --hex-rosy-brown: #bc8f8f;
+    --hsl-rosy-brown: hsl(0, 25%, 64.71%);
+
+    --rgb-rust: rgb(183, 65, 14);
+    --hex-rust: #b7410e;
+    --hsl-rust: hsl(16.36, 85.71%, 38.04%);
+
+    --rgb-rusty-red: rgb(218, 44, 67);
+    --hex-rusty-red: #da2c43;
+    --hsl-rusty-red: hsl(351.43, 70.59%, 52.35%);
+
+    --rgb-salmon: rgb(250, 128, 114);
+    --hex-salmon: #fa8072;
+    --hsl-salmon: hsl(6, 93.19%, 71.57%);
+
+    --rgb-salmon-pink: rgb(255, 145, 164);
+    --hex-salmon-pink: #ff91a4;
+    --hsl-salmon-pink: hsl(349.41, 100%, 80.59%);
+
+    --rgb-scarlet: rgb(255, 36, 0);
+    --hex-scarlet: #ff2400;
+    --hsl-scarlet: hsl(5.45, 100%, 50%);
+
+    --rgb-syracuse-red-orange: rgb(212, 69, 0);
+    --hex-syracuse-red-orange: #d44500;
+    --hsl-syracuse-red-orange: hsl(16.36, 100%, 41.57%);
+
+    --rgb-tea-rose-red: rgb(244, 194, 194);
+    --hex-tea-rose-red: #f4c2c2;
+    --hsl-tea-rose-red: hsl(0, 53.33%, 86.27%);
+
+    --rgb-tomato: rgb(255, 99, 71);
+    --hex-tomato: #ff6347;
+    --hsl-tomato: hsl(9.09, 100%, 64.71%);
+
+    --rgb-turkey-red: rgb(169, 17, 1);
+    --hex-turkey-red: #a91101;
+    --hsl-turkey-red: hsl(1.03, 98.82%, 33.14%);
+
+    --rgb-vermilion: rgb(227, 66, 52);
+    --hex-vermilion: #e34234;
+    --hsl-vermilion: hsl(4.29, 73.33%, 55.1%);
+
+    --rgb-wine: rgb(114, 47, 55);
+    --hex-wine: #722f37;
+    --hsl-wine: hsl(353.33, 41.67%, 33.14%);
+
+    // Orange
+
+    --rgb-aerospace-orange: rgb(255, 79, 0);
+    --hex-aerospace-orange: #ff4f00;
+    --hsl-aerospace-orange: hsl(18.59, 100%, 50%);
+
+    --rgb-alloy-orange: rgb(196, 98, 16);
+    --hex-alloy-orange: #c46210;
+    --hsl-alloy-orange: hsl(27.27, 85.71%, 40%);
+
+    --rgb-amber: rgb(255, 191, 0);
+    --hex-amber: #ffbf00;
+    --hsl-amber: hsl(45, 100%, 50%);
+
+    --rgb-apricot: rgb(251, 206, 177);
+    --hex-apricot: #fbceb1;
+    --hsl-apricot: hsl(20, 90.91%, 85.1%);
+
+    --rgb-atomic-tangerine: rgb(255, 153, 102);
+    --hex-atomic-tangerine: #ff9966;
+    --hsl-atomic-tangerine: hsl(20, 100%, 70%);
+
+    --rgb-brown: rgb(150, 75, 0);
+    --hex-brown: #964b00;
+    --hsl-brown: hsl(30, 100%, 29.41%);
+
+    --rgb-burnt-orange: rgb(191, 87, 0);
+    --hex-burnt-orange: #bf5700;
+    --hsl-burnt-orange: hsl(24.71, 100%, 37.45%);
+
+    --rgb-butterscotch: rgb(224, 149, 64);
+    --hex-butterscotch: #e09540;
+    --hsl-butterscotch: hsl(30, 73.33%, 58.82%);
+
+    --rgb-carrot-orange: rgb(237, 145, 33);
+    --hex-carrot-orange: #ed9121;
+    --hsl-carrot-orange: hsl(30.59, 85.71%, 54.12%);
+
+    --rgb-champagne: rgb(247, 231, 206);
+    --hex-champagne: #f7e7ce;
+    --hsl-champagne: hsl(35, 70.59%, 89.02%);
+
+    --rgb-coral: rgb(255, 127, 80);
+    --hex-coral: #ff7f50;
+    --hsl-coral: hsl(16.08, 100%, 70%);
+
+    --rgb-dark-orange-web: rgb(255, 140, 0);
+    --hex-dark-orange-web: #ff8c00;
+    --hsl-dark-orange-web: hsl(33.82, 100%, 50%);
+
+    --rgb-desert-sand: rgb(237, 201, 175);
+    --hex-desert-sand: #edc9af;
+    --hsl-desert-sand: hsl(20, 70.59%, 84.12%);
+
+    --rgb-engineering-orange: rgb(186, 22, 12);
+    --hex-engineering-orange: #ba160c;
+    --hsl-engineering-orange: hsl(3.45, 87.88%, 38.82%);
+
+    --rgb-flame: rgb(226, 88, 34);
+    --hex-flame: #e25822;
+    --hsl-flame: hsl(16.88, 76.8%, 50.98%);
+
+    --rgb-giants-orange: rgb(254, 90, 29);
+    --hex-giants-orange: #fe5a1d;
+    --hsl-giants-orange: hsl(14.12, 98.67%, 56.67%);
+
+    --rgb-gold: rgb(255, 215, 0);
+    --hex-gold: #ffd700;
+    --hsl-gold: hsl(51.43, 100%, 50%);
+
+    --rgb-golden-gate-bridge: rgb(240, 74, 0);
+    --hex-golden-gate-bridge: #f04a00;
+    --hsl-golden-gate-bridge: hsl(12.35, 100%, 47.06%);
+
+    --rgb-goldenrod: rgb(218, 165, 32);
+    --hex-goldenrod: #daa520;
+    --hsl-goldenrod: hsl(42.86, 74.74%, 49.02%);
+
+    --rgb-hunyadi-yellow: rgb(232, 172, 65);
+    --hex-hunyadi-yellow: #e8ac41;
+    --hsl-hunyadi-yellow: hsl(38.57, 77.78%, 58.04%);
+
+    --rgb-light-orange: rgb(254, 216, 177);
+    --hex-light-orange: #fed8b1;
+    --hsl-light-orange: hsl(27.27, 98.67%, 86.67%);
+
+    --rgb-mahogany: rgb(192, 64, 0);
+    --hex-mahogany: #c04000;
+    --hsl-mahogany: hsl(15, 100%, 37.65%);
+
+    --rgb-melon: rgb(253, 188, 180);
+    --hex-melon: #fdbcb4;
+    --hsl-melon: hsl(15, 100%, 85.1%);
+
+    --rgb-orange-crayola: rgb(255, 117, 56);
+    --hex-orange-crayola: #ff7538;
+    --hsl-orange-crayola: hsl(17.14, 100%, 64.12%);
+
+    --rgb-orange-pantone: rgb(255, 88, 0);
+    --hex-orange-pantone: #ff5800;
+    --hsl-orange-pantone: hsl(17.14, 100%, 50%);
+
+    --rgb-orange-peel: rgb(255, 160, 0);
+    --hex-orange-peel: #ffa000;
+    --hsl-orange-peel: hsl(38.82, 100%, 50%);
+
+    --rgb-orange-web: rgb(255, 165, 0);
+    --hex-orange-web: #ffa500;
+    --hsl-orange-web: hsl(39.22, 100%, 50%);
+
+    --rgb-orange-wheel: rgb(255, 128, 0);
+    --hex-orange-wheel: #ff8000;
+    --hsl-orange-wheel: hsl(30, 100%, 50%);
+
+    --rgb-papaya-whip: rgb(255, 239, 213);
+    --hex-papaya-whip: #ffefd5;
+    --hsl-papaya-whip: hsl(37.5, 100%, 91.18%);
+
+    --rgb-peach: rgb(255, 229, 180);
+    --hex-peach: #ffe5b4;
+    --hsl-peach: hsl(39.13, 100%, 85.1%);
+
+    --rgb-persian-orange: rgb(217, 144, 88);
+    --hex-persian-orange: #d99058;
+    --hsl-persian-orange: hsl(24.71, 63.64%, 63.14%);
+
+    --rgb-persimmon: rgb(236, 88, 0);
+    --hex-persimmon: #ec5800;
+    --hsl-persimmon: hsl(16.36, 100%, 46.27%);
+
+    --rgb-princeton-orange: rgb(255, 143, 0);
+    --hex-princeton-orange: #ff8f00;
+    --hsl-princeton-orange: hsl(35.29, 100%, 50%);
+
+    --rgb-pumpkin: rgb(255, 117, 24);
+    --hex-pumpkin: #ff7518;
+    --hsl-pumpkin: hsl(24.71, 100%, 55.1%);
+
+    --rgb-safety-orange: rgb(255, 121, 0);
+    --hex-safety-orange: #ff7900;
+    --hsl-safety-orange: hsl(30.59, 100%, 50%);
+
+    --rgb-saffron: rgb(244, 196, 48);
+    --hex-saffron: #f4c430;
+    --hsl-saffron: hsl(45.88, 90.48%, 58.04%);
+
+    --rgb-spanish-orange: rgb(232, 97, 0);
+    --hex-spanish-orange: #e86100;
+    --hsl-spanish-orange: hsl(22.35, 100%, 45.49%);
+
+    --rgb-tangelo: rgb(249, 77, 0);
+    --hex-tangelo: #f94d00;
+    --hsl-tangelo: hsl(14.12, 100%, 48.82%);
+
+    --rgb-tangerine: rgb(242, 133, 0);
+    --hex-tangerine: #f28500;
+    --hsl-tangerine: hsl(30.88, 100%, 47.45%);
+
+    --rgb-tawny: rgb(205, 87, 0);
+    --hex-tawny: #cd5700;
+    --hsl-tawny: hsl(24.71, 100%, 40.2%);
+
+    --rgb-tigers-eye: rgb(181, 105, 23);
+    --hex-tigers-eye: #b56917;
+    --hsl-tigers-eye: hsl(30.77, 77.27%, 39.02%);
+
+    --rgb-ut-orange: rgb(255, 130, 0);
+    --hex-ut-orange: #ff8200;
+    --hsl-ut-orange: hsl(33.53, 100%, 50%);
+
+    --rgb-xanthous: rgb(241, 180, 47);
+    --hex-xanthous: #f1b42f;
+    --hsl-xanthous: hsl(42.35, 88.89%, 57.06%);
+
+    // Brown
+
+    --rgb-auburn: rgb(165, 42, 42);
+    --hex-auburn: #A52A2A;
+    --hsl-auburn: hsl(0, 59.42%, 40.59%);
+
+    --rgb-almond: rgb(239, 222, 205);
+    --hex-almond: #efdecd;
+    --hsl-almond: hsl(25.71, 53.33%, 88.04%);
+
+    --rgb-beaver: rgb(159, 129, 112);
+    --hex-beaver: #9f8170;
+    --hsl-beaver: hsl(24.71, 19.05%, 55.1%);
+
+    --rgb-beige: rgb(245, 245, 220);
+    --hex-beige: #f5f5dc;
+    --hsl-beige: hsl(60, 55.56%, 91.18%);
+
+    --rgb-bistre: rgb(61, 43, 31);
+    --hex-bistre: #3d2b1f;
+    --hsl-bistre: hsl(24, 32.26%, 18.63%);
+
+    --rgb-black-bean: rgb(61, 12, 2);
+    --hex-black-bean: #3d0c02;
+    --hsl-black-bean: hsl(9.6, 93.55%, 12.35%);
+
+    --rgb-black-olive: rgb(59, 60, 54);
+    --hex-black-olive: #3b3c36;
+    --hsl-black-olive: hsl(60, 5.56%, 22.35%);
+
+    --rgb-bole: rgb(121, 68, 59);
+    --hex-bole: #79443b;
+    --hsl-bole: hsl(8.71, 34.44%, 35.29%);
+
+    --rgb-bone: rgb(227, 218, 201);
+    --hex-bone: #e3dac9;
+    --hsl-bone: hsl(38, 34.4%, 84.5%);
+
+    --rgb-bronze: rgb(205, 127, 50);
+    --hex-bronze: #cd7f32;
+    --hsl-bronze: hsl(30, 60.9%, 49.8%);
+
+    --rgb-brown: rgb(153, 51, 0);
+    --hex-brown: #993300;
+    --hsl-brown: hsl(18, 100%, 30%);
+
+    --rgb-brown-sugar: rgb(175, 110, 77);
+    --hex-brown-sugar: #af6e4d;
+    --hsl-brown-sugar: hsl(22, 38.8%, 49.8%);
+
+    --rgb-buff: rgb(218, 160, 109);
+    --hex-buff: #daa06d;
+    --hsl-buff: hsl(30, 58.1%, 63.9%);
+
+    --rgb-burnt-sienna: rgb(233, 116, 81);
+    --hex-burnt-sienna: #e97451;
+    --hsl-burnt-sienna: hsl(15, 74.7%, 63.9%);
+
+    --rgb-burnt-umber: rgb(138, 51, 36);
+    --hex-burnt-umber: #8a3324;
+    --hsl-burnt-umber: hsl(14, 53.8%, 34.9%);
+
+    --rgb-camel: rgb(193, 154, 107);
+    --hex-camel: #c19a6b;
+    --hsl-camel: hsl(34, 39.5%, 57.3%);
+
+    --rgb-caput-mortuum: rgb(89, 39, 32);
+    --hex-caput-mortuum: #592720;
+    --hsl-caput-mortuum: hsl(10, 46.7%, 27.3%);
+
+    --rgb-caramel: rgb(204, 127, 59);
+    --hex-caramel: #cc7f3b;
+    --hsl-caramel: hsl(30, 69.1%, 53.3%);
+
+    --rgb-chamoisee: rgb(160, 120, 90);
+    --hex-chamoisee: #a0785a;
+    --hsl-chamoisee: hsl(30, 33.7%, 50.2%);
+
+    --rgb-chestnut: rgb(149, 69, 53);
+    --hex-chestnut: #954535;
+    --hsl-chestnut: hsl(10, 41.2%, 41.6%);
+
+    --rgb-chocolate: rgb(123, 63, 0);
+    --hex-chocolate: #7b3f00;
+    --hsl-chocolate: hsl(30, 100%, 24.1%);
+
+    --rgb-citron: rgb(221, 208, 106);
+    --hex-citron: #ddd06a;
+    --hsl-citron: hsl(59, 69.6%, 59%);
+
+    --rgb-cocoa-brown: rgb(210, 105, 30);
+    --hex-cocoa-brown: #d2691e;
+    --hsl-cocoa-brown: hsl(25, 75.7%, 49.8%);
+
+    --rgb-coffee: rgb(111, 78, 55);
+    --hex-coffee: #6f4e37;
+    --hsl-coffee: hsl(25, 34.4%, 31.8%);
+
+    --rgb-copper: rgb(184, 115, 51);
+    --hex-copper: #b87333;
+    --hsl-copper: hsl(30, 59.1%, 47.8%);
+
+    --rgb-cordovan: rgb(137, 63, 69);
+    --hex-cordovan: #893F45;
+    --hsl-cordovan: hsl(355.14, 37%, 39.22%);
+
+    --rgb-coyote: rgb(129, 97, 62);
+    --hex-coyote: #81613e;
+    --hsl-coyote: hsl(39, 29.5%, 45.5%);
+
+    --rgb-desert-sand: rgb(237, 201, 175);
+    --hex-desert-sand: #edc9af;
+    --hsl-desert-sand: hsl(20, 70.59%, 84.12%);
+
+    --rgb-drab-dark-brown: rgb(74, 65, 42);
+    --hex-drab-dark-brown: #4a412a;
+    --hsl-drab-dark-brown: hsl(30, 24.4%, 22.7%);
+
+    --rgb-dun: rgb(218, 200, 174);
+    --hex-dun: #dac8ae;
+    --hsl-dun: hsl(43, 31.8%, 77.3%);
+
+    --rgb-earth-yellow: rgb(225, 169, 95);
+    --hex-earth-yellow: #e1a95f;
+    --hsl-earth-yellow: hsl(39, 67.3%, 61.6%);
+
+    --rgb-ecru: rgb(194, 178, 128);
+    --hex-ecru: #c2b280;
+    --hsl-ecru: hsl(45, 34.4%, 61.4%);
+
+    --rgb-fallow: rgb(193, 154, 107);
+    --hex-fallow: #C19A6B;
+    --hsl-fallow: hsl(32.79, 40.95%, 58.82%);
+
+    --rgb-fawn: rgb(229, 170, 112);
+    --hex-fawn: #e5aa70;
+    --hsl-fawn: hsl(32, 68.3%, 70.2%);
+
+    --rgb-field-drab: rgb(108, 84, 30);
+    --hex-field-drab: #6c541e;
+    --hsl-field-drab: hsl(38, 56.6%, 30.2%);
+
+    --rgb-fulvous: rgb(228, 132, 0);
+    --hex-fulvous: #e48400;
+    --hsl-fulvous: hsl(35, 100%, 44.7%);
+
+    --rgb-golden-brown: rgb(153, 101, 21);
+    --hex-golden-brown: #996515;
+    --hsl-golden-brown: hsl(35, 69.9%, 34.1%);
+
+    --rgb-goldenrod: rgb(218, 165, 32);
+    --hex-goldenrod: #daa520;
+    --hsl-goldenrod: hsl(42.86, 74.74%, 49.02%);
+
+    --rgb-harvest-gold: rgb(218, 145, 0);
+    --hex-harvest-gold: #da9100;
+    --hsl-harvest-gold: hsl(38, 100%, 42.7%);
+
+    --rgb-khaki: rgb(195, 176, 145);
+    --hex-khaki: #c3b091;
+    --hsl-khaki: hsl(44, 28.6%, 63.9%);
+
+    --rgb-kobicha: rgb(107, 68, 35);
+    --hex-kobicha: #6b4423;
+    --hsl-kobicha: hsl(30, 41.9%, 27.6%);
+
+    --rgb-lion: rgb(193, 154, 107);
+    --hex-lion: #C19A6B;
+    --hsl-lion: hsl(32.79, 40.95%, 58.82%);
+
+    --rgb-liver: rgb(103, 76, 71);
+    --hex-liver: #674c47;
+    --hsl-liver: hsl(10, 17.9%, 33.3%);
+
+    --rgb-mahogany: rgb(192, 64, 0);
+    --hex-mahogany: #c04000;
+    --hsl-mahogany: hsl(15, 100%, 37.65%);
+
+    --rgb-maroon: rgb(128, 0, 0);
+    --hex-maroon: #800000;
+    --hsl-maroon: hsl(0, 100%, 25.1%);
+
+    --rgb-ochre: rgb(204, 119, 34);
+    --hex-ochre: #cc7722;
+    --hsl-ochre: hsl(30, 60.2%, 49.8%);
+
+    --rgb-raw-umber: rgb(146, 102, 68);
+    --hex-raw-umber: #926644;
+    --hsl-raw-umber: hsl(30, 36.1%, 41.8%);
+
+    --rgb-red-brown: rgb(165, 42, 42);
+    --hex-red-brown: #a52a2a;
+    --hsl-red-brown: hsl(0, 59.42%, 41.18%);
+
+    --rgb-redwood: rgb(164, 90, 82);
+    --hex-redwood: #a45a52;
+    --hsl-redwood: hsl(350, 34.7%, 47.8%);
+
+    --rgb-rufous: rgb(168, 28, 7);
+    --hex-rufous: #a81c07;
+    --hsl-rufous: hsl(7, 89.3%, 35.3%);
+
+    --rgb-russet: rgb(128, 70, 27);
+    --hex-russet: #80461b;
+    --hsl-russet: hsl(21, 60.5%, 34.5%);
+
+    --rgb-rust: rgb(183, 65, 14);
+    --hex-rust: #b7410e;
+    --hsl-rust: hsl(16.36, 85.71%, 38.04%);
+
+    --rgb-sand: rgb(194, 178, 128);
+    --hex-sand: #C2B280;
+    --hsl-sand: hsl(45.45, 35.11%, 63.14%);
+
+    --rgb-sandy-brown: rgb(244, 164, 96);
+    --hex-sandy-brown: #f4a460;
+    --hsl-sandy-brown: hsl(30, 85.7%, 69.8%);
+
+    --rgb-satin-sheen-gold: rgb(203, 161, 53);
+    --hex-satin-sheen-gold: #cba135;
+    --hsl-satin-sheen-gold: hsl(38, 57.9%, 50.2%);
+
+    --rgb-seal-brown: rgb(89, 38, 11);
+    --hex-seal-brown: #59260b;
+    --hsl-seal-brown: hsl(22, 64.2%, 21.6%);
+
+    --rgb-sepia: rgb(112, 66, 20);
+    --hex-sepia: #704214;
+    --hsl-sepia: hsl(30, 58.3%, 26.3%);
+
+    --rgb-sienna: rgb(136, 45, 23);
+    --hex-sienna: #882d17;
+    --hsl-sienna: hsl(11, 65.7%, 32.2%);
+
+    --rgb-sinopia: rgb(203, 65, 11);
+    --hex-sinopia: #cb410b;
+    --hsl-sinopia: hsl(14, 86.6%, 42.4%);
+
+    --rgb-tan: rgb(210, 180, 140);
+    --hex-tan: #d2b48c;
+    --hsl-tan: hsl(34, 43.3%, 69.8%);
+
+    --rgb-taupe: rgb(72, 60, 50);
+    --hex-taupe: #483c32;
+    --hsl-taupe: hsl(30, 14.3%, 24.1%);
+
+    --rgb-tawny: rgb(205, 87, 0);
+    --hex-tawny: #cd5700;
+    --hsl-tawny: hsl(24.71, 100%, 40.2%);
+
+    --rgb-umber: rgb(99, 81, 71);
+    --hex-umber: #635147;
+    --hsl-umber: hsl(30, 14.9%, 33.3%);
+
+    --rgb-van-dyke: rgb(68, 54, 47);
+    --hex-van-dyke: #44362f;
+    --hsl-van-dyke: hsl(25, 19.6%, 24.7%);
+
+    --rgb-walnut-brown: rgb(92, 82, 72);
+    --hex-walnut-brown: #5c5248;
+    --hsl-walnut-brown: hsl(20, 13.5%, 32.5%);
+
+    --rgb-wenge: rgb(100, 84, 82);
+    --hex-wenge: #645452;
+    --hsl-wenge: hsl(10, 7.4%, 36.1%);
+
+    --rgb-wheat: rgb(245, 222, 179);
+    --hex-wheat: #f5deb3;
+    --hsl-wheat: hsl(39, 76.4%, 83.9%);
+
+    // Yellow
+
+    --rgb-amber: rgb(255, 191, 0);
+    --hex-amber: #ffbf00;
+    --hsl-amber: hsl(45, 100%, 50%);
+
+    --rgb-apricot: rgb(251, 206, 177);
+    --hex-apricot: #fbceb1;
+    --hsl-apricot: hsl(20, 90.91%, 85.1%);
+
+    --rgb-arylide-yellow: rgb(233, 214, 107);
+    --hex-arylide-yellow: #e9d66b;
+    --hsl-arylide-yellow: hsl(58, 74.6%, 66.3%);
+
+    --rgb-aureolin: rgb(253, 238, 0);
+    --hex-aureolin: #fdee00;
+    --hsl-aureolin: hsl(54, 100%, 49.8%);
+
+    --rgb-beige: rgb(245, 245, 220);
+    --hex-beige: #f5f5dc;
+    --hsl-beige: hsl(60, 55.56%, 91.18%);
+
+    --rgb-buff: rgb(224, 171, 118);
+    --hex-buff: #e0ab76;
+    --hsl-buff: hsl(34, 57.5%, 65.9%);
+
+    --rgb-canary: rgb(255, 239, 0);
+    --hex-canary: #ffef00;
+    --hsl-canary: hsl(57, 100%, 50%);
+
+    --rgb-champagne: rgb(247, 231, 206);
+    --hex-champagne: #f7e7ce;
+    --hsl-champagne: hsl(35, 70.59%, 89.02%);
+
+    --rgb-chartreuse: rgb(223, 255, 0);
+    --hex-chartreuse: #dfff00;
+    --hsl-chartreuse: hsl(72, 100%, 44.1%);
+
+    --rgb-citron: rgb(221, 208, 106);
+    --hex-citron: #ddd06a;
+    --hsl-citron: hsl(59, 69.6%, 59%);
+
+    --rgb-citrine: rgb(228, 208, 10);
+    --hex-citrine: #e4d00a;
+    --hsl-citrine: hsl(51, 92%, 45.1%);
+
+    --rgb-cosmic-latte: rgb(255, 248, 231);
+    --hex-cosmic-latte: #fff8e7;
+    --hsl-cosmic-latte: hsl(51, 100%, 94.1%);
+
+    --rgb-cream: rgb(255, 253, 208);
+    --hex-cream: #fffdd0;
+    --hsl-cream: hsl(60, 100%, 90.2%);
+
+    --rgb-dark-goldenrod: rgb(184, 134, 11);
+    --hex-dark-goldenrod: #b8860b;
+    --hsl-dark-goldenrod: hsl(43, 88%, 38.6%);
+
+    --rgb-ecru: rgb(205, 178, 128);
+    --hex-ecru: #cdb280;
+    --hsl-ecru: hsl(39, 41%, 57.6%);
+
+    --rgb-flax: rgb(238, 220, 130);
+    --hex-flax: #eedc82;
+    --hsl-flax: hsl(54, 77%, 70.2%);
+
+    --rgb-gamboge: rgb(239, 155, 15);
+    --hex-gamboge: #ef9b0f;
+    --hsl-gamboge: hsl(39, 92%, 49.8%);
+
+    --rgb-gold: rgb(255, 215, 0);
+    --hex-gold: #ffd700;
+    --hsl-gold: hsl(51.43, 100%, 50%);
+
+    --rgb-gold-metallic: rgb(212, 175, 55);
+    --hex-gold-metallic: #d4af37;
+    --hsl-gold-metallic: hsl(43, 60%, 51.4%);
+
+    --rgb-goldenrod: rgb(218, 165, 32);
+    --hex-goldenrod: #daa520;
+    --hsl-goldenrod: hsl(42.86, 74.74%, 49.02%);
+
+    --rgb-harvest-gold: rgb(230, 168, 23);
+    --hex-harvest-gold: #e6a817;
+    --hsl-harvest-gold: hsl(43, 84%, 51.4%);
+
+    --rgb-icterine: rgb(252, 247, 94);
+    --hex-icterine: #fcf75e;
+    --hsl-icterine: hsl(58, 97%, 74.1%);
+
+    --rgb-ivory: rgb(255, 255, 240);
+    --hex-ivory: #fffff0;
+    --hsl-ivory: hsl(60, 100%, 97.6%);
+
+    --rgb-jasmine: rgb(248, 222, 126);
+    --hex-jasmine: #f8de7e;
+    --hsl-jasmine: hsl(48, 91%, 73.3%);
+
+    --rgb-jonquil: rgb(250, 202, 22);
+    --hex-jonquil: #faca16;
+    --hsl-jonquil: hsl(47, 94%, 54.9%);
+
+    --rgb-khaki: rgb(195, 176, 145);
+    --hex-khaki: #c3b091;
+    --hsl-khaki: hsl(44, 28.6%, 63.9%);
+
+    --rgb-lemon-chiffon: rgb(255, 250, 205);
+    --hex-lemon-chiffon: #fffacd;
+    --hsl-lemon-chiffon: hsl(54, 100%, 90.2%);
+
+    --rgb-lemon-lime: rgb(227, 255, 0);
+    --hex-lemon-lime: #e3ff00;
+    --hsl-lemon-lime: hsl(72, 100%, 44.9%);
+
+    --rgb-light-yellow: rgb(255, 255, 224);
+    --hex-light-yellow: #ffffe0;
+    --hsl-light-yellow: hsl(60, 100%, 94.1%);
+
+    --rgb-lion: rgb(193, 154, 107);
+    --hex-lion: #C19A6B;
+    --hsl-lion: hsl(32.79, 40.95%, 58.82%);
+
+    --rgb-maize: rgb(251, 236, 93);
+    --hex-maize: #fbec5d;
+    --hsl-maize: hsl(55, 89%, 68.6%);
+
+    --rgb-mikado-yellow: rgb(255, 196, 12);
+    --hex-mikado-yellow: #ffc40c;
+    --hsl-mikado-yellow: hsl(45, 98%, 54.9%);
+
+    --rgb-mindaro: rgb(227, 249, 136);
+    --hex-mindaro: #e3f988;
+    --hsl-mindaro: hsl(67, 89%, 75.7%);
+
+    --rgb-mustard: rgb(255, 219, 88);
+    --hex-mustard: #ffdb58;
+    --hsl-mustard: hsl(48, 100%, 64.3%);
+
+    --rgb-naples-yellow: rgb(250, 218, 94);
+    --hex-naples-yellow: #fada5e;
+    --hsl-naples-yellow: hsl(49, 89%, 64.9%);
+
+    --rgb-navajo-white: rgb(255, 222, 173);
+    --hex-navajo-white: #ffdead;
+    --hsl-navajo-white: hsl(39, 100%, 85.1%);
+
+    --rgb-old-gold: rgb(207, 181, 59);
+    --hex-old-gold: #cfb53b;
+    --hsl-old-gold: hsl(43, 56%, 51.4%);
+
+    --rgb-olive: rgb(128, 128, 0);
+    --hex-olive: #808000;
+    --hsl-olive: hsl(60, 100%, 25.5%);
+
+    --rgb-peach-yellow: rgb(250, 223, 173);
+    --hex-peach-yellow: #fadfad;
+    --hsl-peach-yellow: hsl(39, 85%, 84.7%);
+
+    --rgb-pear: rgb(209, 226, 49);
+    --hex-pear: #d1e231;
+    --hsl-pear: hsl(66, 78%, 58.4%);
+
+    --rgb-saffron: rgb(244, 196, 49);
+    --hex-saffron: #f4c431;
+    --hsl-saffron: hsl(44, 88%, 58.8%);
+
+    --rgb-school-bus-yellow: rgb(255, 216, 0);
+    --hex-school-bus-yellow: #ffd800;
+    --hsl-school-bus-yellow: hsl(52, 100%, 50.2%);
+
+    --rgb-selective-yellow: rgb(255, 186, 0);
+    --hex-selective-yellow: #ffba00;
+    --hsl-selective-yellow: hsl(45, 100%, 50.2%);
+
+    --rgb-stil-de-grain-yellow: rgb(250, 218, 94);
+    --hex-stil-de-grain-yellow: #fada5e;
+    --hsl-stil-de-grain-yellow: hsl(49, 89%, 64.9%);
+
+    --rgb-straw: rgb(228, 217, 111);
+    --hex-straw: #e4d96f;
+    --hsl-straw: hsl(58, 69%, 62.4%);
+
+    --rgb-sunglow: rgb(255, 204, 51);
+    --hex-sunglow: #ffcc33;
+    --hsl-sunglow: hsl(43, 100%, 60.2%);
+
+    --rgb-sunset: rgb(250, 214, 165);
+    --hex-sunset: #fad6a5;
+    --hsl-sunset: hsl(38, 85%, 84.3%);
+
+    --rgb-vanilla: rgb(243, 229, 171);
+    --hex-vanilla: #f3e5ab;
+    --hsl-vanilla: hsl(50, 84%, 81.4%);
+
+    --rgb-yellow: rgb(255, 255, 0);
+    --hex-yellow: #ffff00;
+    --hsl-yellow: hsl(60, 100%, 50%);
+
+    // Greem
+
+    --rgb-apple-green: rgb(141, 182, 0);
+    --hex-apple-green: #8db600;
+    --hsl-apple-green: hsl(74, 100%, 35.7%);
+
+    --rgb-aquamarine: rgb(0, 255, 191);
+    --hex-aquamarine: #00ffbf;
+    --hsl-aquamarine: hsl(170, 100%, 50.2%);
+
+    --rgb-asparagus: rgb(123, 160, 91);
+    --hex-asparagus: #7ba05b;
+    --hsl-asparagus: hsl(103, 30%, 45.9%);
+
+    --rgb-avocado: rgb(86, 130, 3);
+    --hex-avocado: #568203;
+    --hsl-avocado: hsl(70, 93%, 26.7%);
+
+    --rgb-bright-green: rgb(102, 255, 0);
+    --hex-bright-green: #66ff00;
+    --hsl-bright-green: hsl(105, 100%, 50%);
+
+    --rgb-british-racing-green: rgb(0, 66, 37);
+    --hex-british-racing-green: #004225;
+    --hsl-british-racing-green: hsl(159, 100%, 13%);
+
+    --rgb-brunswick-green: rgb(27, 77, 62);
+    --hex-brunswick-green: #1b4d3e;
+    --hsl-brunswick-green: hsl(161, 61%, 18.2%);
+
+    --rgb-cal-poly-green: rgb(30, 77, 43);
+    --hex-cal-poly-green: #1e4d2b;
+    --hsl-cal-poly-green: hsl(161, 61%, 20.2%);
+
+    --rgb-castleton-green: rgb(0, 86, 59);
+    --hex-castleton-green: #00563b;
+    --hsl-castleton-green: hsl(160, 100%, 20.4%);
+
+    --rgb-celadon: rgb(172, 225, 175);
+    --hex-celadon: #ace1af;
+    --hsl-celadon: hsl(123, 58%, 74.5%);
+
+    --rgb-chartreuse: rgb(128, 255, 0);
+    --hex-chartreuse: #80ff00;
+    --hsl-chartreuse: hsl(72, 100%, 50.2%);
+
+    --rgb-cyan: rgb(0, 255, 255);
+    --hex-cyan: #00ffff;
+    --hsl-cyan: hsl(180, 100%, 50%);
+
+    --rgb-dark-green: rgb(1, 50, 32);
+    --hex-dark-green: #013220;
+    --hsl-dark-green: hsl(158, 99%, 9.8%);
+
+    --rgb-dark-moss-green: rgb(74, 93, 35);
+    --hex-dark-moss-green: #4a5d23;
+    --hsl-dark-moss-green: hsl(72, 36%, 25.9%);
+
+    --rgb-dark-pastel-green: rgb(3, 192, 60);
+    --hex-dark-pastel-green: #03c03c;
+    --hsl-dark-pastel-green: hsl(141, 97%, 37.3%);
+
+    --rgb-dark-spring-green: rgb(23, 114, 69);
+    --hex-dark-spring-green: #177245;
+    --hsl-dark-spring-green: hsl(150, 85%, 30.2%);
+
+    --rgb-dartmouth-green: rgb(0, 105, 62);
+    --hex-dartmouth-green: #00693e;
+    --hsl-dartmouth-green: hsl(159, 100%, 20.4%);
+
+    --rgb-emerald: rgb(80, 200, 120);
+    --hex-emerald: #50c878;
+    --hsl-emerald: hsl(141, 55%, 49.8%);
+
+    --rgb-erin: rgb(0, 255, 64);
+    --hex-erin: #00ff40;
+    --hsl-erin: hsl(135, 100%, 50%);
+
+    --rgb-fern-green: rgb(79, 121, 66);
+    --hex-fern-green: #4f7942;
+    --hsl-fern-green: hsl(120, 37%, 34.5%);
+
+    --rgb-forest-green: rgb(34, 139, 34);
+    --hex-forest-green: #228b22;
+    --hsl-forest-green: hsl(120, 61%, 34.1%);
+
+    --rgb-green: rgb(0, 255, 0);
+    --hex-green: #00ff00;
+    --hsl-green: hsl(120, 100%, 50%);
+
+    --rgb-green-yellow: rgb(173, 255, 47);
+    --hex-green-yellow: #adff2f;
+    --hsl-green-yellow: hsl(76, 100%, 60.8%);
+
+    --rgb-harlequin: rgb(63, 255, 0);
+    --hex-harlequin: #3fff00;
+    --hsl-harlequin: hsl(96, 100%, 50.2%);
+
+    --rgb-honeydew: rgb(240, 255, 240);
+    --hex-honeydew: #f0fff0;
+    --hsl-honeydew: hsl(120, 100%, 97.6%);
+
+    --rgb-hookers-green: rgb(73, 121, 107);
+    --hex-hookers-green: #49796b;
+    --hsl-hookers-green: hsl(151, 28%, 34.9%);
+
+    --rgb-hunter-green: rgb(53, 94, 59);
+    --hex-hunter-green: #355e3b;
+    --hsl-hunter-green: hsl(160, 34%, 26.9%);
+
+    --rgb-india-green: rgb(19, 136, 8);
+    --hex-india-green: #138808;
+    --hsl-india-green: hsl(129, 88%, 26.5%);
+
+    --rgb-islamic-green: rgb(53, 94, 59);
+    --hex-islamic-green: #355E3B;
+    --hsl-islamic-green: hsl(128.78, 27.89%, 28.82%);
+
+    --rgb-jade: rgb(0, 168, 107);
+    --hex-jade: #00a86b;
+    --hsl-jade: hsl(159, 100%, 32.9%);
+
+    --rgb-jungle-green: rgb(41, 171, 135);
+    --hex-jungle-green: #29ab87;
+    --hsl-jungle-green: hsl(159, 63%, 41.6%);
+
+    --rgb-kelly-green: rgb(76, 187, 23);
+    --hex-kelly-green: #4cbb17;
+    --hsl-kelly-green: hsl(101, 71%, 44.5%);
+
+    --rgb-lawn-green: rgb(124, 252, 0);
+    --hex-lawn-green: #7cfc00;
+    --hsl-lawn-green: hsl(76, 100%, 49%);
+
+    --rgb-light-green: rgb(144, 238, 144);
+    --hex-light-green: #90ee90;
+    --hsl-light-green: hsl(120, 73%, 75.5%);
+
+    --rgb-lime: rgb(192, 255, 0);
+    --hex-lime: #c0ff00;
+    --hsl-lime: hsl(72, 100%, 49.8%);
+
+    --rgb-lime-green: rgb(50, 205, 50);
+    --hex-lime-green: #32cd32;
+    --hsl-lime-green: hsl(120, 60%, 50.2%);
+
+    --rgb-malachite: rgb(11, 218, 81);
+    --hex-malachite: #0bda51;
+    --hsl-malachite: hsl(150, 96%, 44.3%);
+
+    --rgb-mantis: rgb(116, 195, 101);
+    --hex-mantis: #74c365;
+    --hsl-mantis: hsl(123, 50%, 58.8%);
+
+    --rgb-midnight-green: rgb(0, 73, 83);
+    --hex-midnight-green: #004953;
+    --hsl-midnight-green: hsl(180, 100%, 16.5%);
+
+    --rgb-mindaro: rgb(227, 249, 136);
+    --hex-mindaro: #e3f988;
+    --hsl-mindaro: hsl(67, 89%, 75.7%);
+
+    --rgb-mint: rgb(62, 180, 137);
+    --hex-mint: #3eb489;
+    --hsl-mint: hsl(161, 53%, 45.1%);
+
+    --rgb-moss-green: rgb(138, 154, 91);
+    --hex-moss-green: #8a9a5b;
+    --hsl-moss-green: hsl(72, 28%, 47.5%);
+
+    --rgb-myrtle-green: rgb(49, 120, 115);
+    --hex-myrtle-green: #317873;
+    --hsl-myrtle-green: hsl(169, 35%, 32.9%);
+
+    --rgb-neon-green: rgb(57, 255, 20);
+    --hex-neon-green: #39ff14;
+    --hsl-neon-green: hsl(105, 100%, 51.8%);
+
+    --rgb-office-green: rgb(0, 128, 0);
+    --hex-office-green: #008000;
+    --hsl-office-green: hsl(120, 100%, 25.1%);
+
+    --rgb-olive: rgb(128, 128, 0);
+    --hex-olive: #808000;
+    --hsl-olive: hsl(60, 100%, 25.5%);
+
+    --rgb-olivine: rgb(154, 185, 115);
+    --hex-olivine: #9ab973;
+    --hsl-olivine: hsl(75, 37%, 53.3%);
+
+    --rgb-pakistan-green: rgb(0, 64, 26);
+    --hex-pakistan-green: #00401a;
+    --hsl-pakistan-green: hsl(146, 100%, 12.5%);
+    
+    --rgb-paris-green: rgb(80, 200, 120);
+    --hex-paris-green: #50C878;
+    --hsl-paris-green: hsl(140, 52.17%, 54.9%);
+
+    --rgb-pear: rgb(209, 226, 49);
+    --hex-pear: #d1e231;
+    --hsl-pear: hsl(66, 78%, 58.4%);
+
+    --rgb-persian-green: rgb(0, 166, 147);
+    --hex-persian-green: #00a693;
+    --hsl-persian-green: hsl(170, 100%, 32.5%);
+
+    --rgb-pigment-green: rgb(0, 165, 80);
+    --hex-pigment-green: #00a550;
+    --hsl-pigment-green: hsl(157, 100%, 32.5%);
+
+    --rgb-pine-green: rgb(1, 121, 111);
+    --hex-pine-green: #01796f;
+    --hsl-pine-green: hsl(170, 99%, 23.9%);
+
+    --rgb-pistachio: rgb(147, 197, 114);
+    --hex-pistachio: #93c572;
+    --hsl-pistachio: hsl(76, 44%, 58.4%);
+
+    --rgb-reseda-green: rgb(108, 124, 89);
+    --hex-reseda-green: #6c7c59;
+    --hsl-reseda-green: hsl(80, 19%, 41.2%);
+
+    --rgb-robin-egg-blue: rgb(0, 204, 204);
+    --hex-robin-egg-blue: #00cccc;
+    --hsl-robin-egg-blue: hsl(180, 100%, 50.2%);
+
+    --rgb-sage: rgb(188, 184, 138);
+    --hex-sage: #bcb88a;
+    --hsl-sage: hsl(60, 37%, 62.7%);
+
+    --rgb-screamin-green: rgb(118, 255, 122);
+    --hex-screamin-green: #76ff7a;
+    --hsl-screamin-green: hsl(106, 100%, 65.9%);
+
+    --rgb-sea-green: rgb(46, 139, 87);
+    --hex-sea-green: #2e8b57;
+    --hsl-sea-green: hsl(146, 49%, 35.1%);
+
+    --rgb-sgbus-green: rgb(85, 221, 51);
+    --hex-sgbus-green: #55dd33;
+    --hsl-sgbus-green: hsl(93, 81%, 47.8%);
+
+    --rgb-shamrock-green: rgb(0, 158, 96);
+    --hex-shamrock-green: #009e60;
+    --hsl-shamrock-green: hsl(157, 100%, 31.8%);
+
+    --rgb-spring-bud: rgb(167, 252, 0);
+    --hex-spring-bud: #a7fc00;
+    --hsl-spring-bud: hsl(74, 100%, 49.8%);
+
+    --rgb-spring-green: rgb(0, 255, 127);
+    --hex-spring-green: #00ff7f;
+    --hsl-spring-green: hsl(150, 100%, 50%);
+
+    --rgb-tea-green: rgb(208, 240, 192);
+    --hex-tea-green: #d0f0c0;
+    --hsl-tea-green: hsl(90, 50%, 84.7%);
+
+    --rgb-teal: rgb(0, 128, 128);
+    --hex-teal: #008080;
+    --hsl-teal: hsl(180, 100%, 25.5%);
+
+    --rgb-turquoise: rgb(64, 224, 208);
+    --hex-turquoise: #40e0d0;
+    --hsl-turquoise: hsl(174, 72%, 56.1%);
+
+    --rgb-viridian: rgb(64, 130, 109);
+    --hex-viridian: #40826d;
+    --hsl-viridian: hsl(150, 29%, 38.6%);
+
+    --rgb-yellow-green: rgb(154, 205, 50);
+    --hex-yellow-green: #9acd32;
+    --hsl-yellow-green: hsl(83, 61%, 50.2%);
+
+    // Turquiose
+
+    --rgb-alice-blue: rgb(240, 248, 255);
+    --hex-alice-blue: #f0f8ff;
+    --hsl-alice-blue: hsl(208, 100%, 97.3%);
+
+    --rgb-aqua: rgb(15, 255, 255);
+    --hex-aqua: #0fffff;
+    --hsl-aqua: hsl(180, 100%, 50%);
+
+    --rgb-aquamarine: rgb(127, 255, 212);
+    --hex-aquamarine: #7fffd4;
+    --hsl-aquamarine: hsl(160, 100%, 75.5%);
+
+    --rgb-azure: rgb(0, 127, 255);
+    --hex-azure: #007fff;
+    --hsl-azure: hsl(210, 100%, 50%);
+
+    --rgb-azure-web: rgb(240, 255, 255);
+    --hex-azure-web: #f0ffff;
+    --hsl-azure-web: hsl(180, 100%, 97.3%);
+
+    --rgb-blue-green: rgb(13, 152, 186);
+    --hex-blue-green: #0d98ba;
+    --hsl-blue-green: hsl(193, 85%, 41.6%);
+
+    --rgb-capri: rgb(0, 191, 255);
+    --hex-capri: #00bfff;
+    --hsl-capri: hsl(195, 100%, 50.2%);
+
+    --rgb-caribbean-current: rgb(0, 109, 111);
+    --hex-caribbean-current: #006d6f;
+    --hsl-caribbean-current: hsl(180, 100%, 21.2%);
+
+    --rgb-celeste: rgb(178, 255, 255);
+    --hex-celeste: #b2ffff;
+    --hsl-celeste: hsl(180, 100%, 85.1%);
+
+    --rgb-cerulean: rgb(0, 123, 167);
+    --hex-cerulean: #007ba7;
+    --hsl-cerulean: hsl(197, 100%, 32.5%);
+
+    --rgb-cyan: rgb(0, 255, 255);
+    --hex-cyan: #00ffff;
+    --hsl-cyan: hsl(180, 100%, 50%);
+
+    --rgb-dark-cyan: rgb(0, 139, 139);
+    --hex-dark-cyan: #008b8b;
+    --hsl-dark-cyan: hsl(180, 100%, 27.3%);
+
+    --rgb-electric-blue: rgb(125, 249, 255);
+    --hex-electric-blue: #7df9ff;
+    --hsl-electric-blue: hsl(189, 100%, 73.5%);
+
+    --rgb-fluorescent-cyan: rgb(21, 244, 238);
+    --hex-fluorescent-cyan: #15f4ee;
+    --hsl-fluorescent-cyan: hsl(178, 97%, 54.1%);
+
+    --rgb-jungle-green: rgb(41, 171, 135);
+    --hex-jungle-green: #29ab87;
+    --hsl-jungle-green: hsl(159, 63%, 41.6%);
+
+    --rgb-keppel: rgb(58, 176, 158);
+    --hex-keppel: #3ab09e;
+    --hsl-keppel: hsl(166, 46%, 47.8%);
+
+    --rgb-ice-blue: rgb(153, 255, 255);
+    --hex-ice-blue: #99ffff;
+    --hsl-ice-blue: hsl(180, 100%, 80.4%);
+
+    --rgb-light-cyan: rgb(224, 255, 255);
+    --hex-light-cyan: #e0ffff;
+    --hsl-light-cyan: hsl(180, 100%, 93.1%);
+
+    --rgb-light-sea-green: rgb(32, 178, 170);
+    --hex-light-sea-green: #20b2aa;
+    --hsl-light-sea-green: hsl(177, 70%, 41.8%);
+
+    --rgb-mint-green: rgb(223, 255, 253);
+    --hex-mint-green: #dffffd;
+    --hsl-mint-green: hsl(160, 100%, 90.2%);
+
+    --rgb-mint: rgb(62, 180, 137);
+    --hex-mint: #3eb489;
+    --hsl-mint: hsl(161, 53%, 45.1%);
+
+    --rgb-moonstone: rgb(58, 168, 193);
+    --hex-moonstone: #3aa8c1;
+    --hsl-moonstone: hsl(191, 70%, 49.8%);
+
+    --rgb-pacific-cyan: rgb(28, 169, 201);
+    --hex-pacific-cyan: #1ca9c9;
+    --hsl-pacific-cyan: hsl(190, 80%, 45.5%);
+
+    --rgb-persian-green: rgb(0, 166, 147);
+    --hex-persian-green: #00a693;
+    --hsl-persian-green: hsl(170, 100%, 32.5%);
+
+    --rgb-pine-green: rgb(1, 121, 111);
+    --hex-pine-green: #01796f;
+    --hsl-pine-green: hsl(170, 99%, 23.9%);
+
+    --rgb-process-cyan: rgb(0, 183, 235);
+    --hex-process-cyan: #00b7eb;
+    --hsl-process-cyan: hsl(192, 100%, 46.1%);
+
+    --rgb-robin-egg-blue: rgb(0, 204, 204);
+    --hex-robin-egg-blue: #00cccc;
+    --hsl-robin-egg-blue: hsl(180, 100%, 50.2%);
+
+    --rgb-sea-green: rgb(46, 139, 87);
+    --hex-sea-green: #2e8b57;
+    --hsl-sea-green: hsl(146, 49%, 35.1%);
+
+    --rgb-skobeloff: rgb(0, 122, 116);
+    --hex-skobeloff: #007a74;
+    --hsl-skobeloff: hsl(174, 100%, 23.9%);
+
+    --rgb-sky-blue-crayola: rgb(223, 255, 253);
+    --hex-sky-blue-crayola: #DFFFFD;
+    --hsl-sky-blue-crayola: hsl(176.25, 100%, 93.73%);
+
+    --rgb-spring-green: rgb(0, 255, 127);
+    --hex-spring-green: #00ff7f;
+    --hsl-spring-green: hsl(150, 100%, 50%);
+
+    --rgb-teal: rgb(0, 128, 128);
+    --hex-teal: #008080;
+    --hsl-teal: hsl(180, 100%, 25.5%);
+
+    --rgb-tiffany-blue: rgb(129, 216, 208);
+    --hex-tiffany-blue: #81d8d0;
+    --hsl-tiffany-blue: hsl(174, 48%, 60.8%);
+
+    --rgb-turquoise: rgb(64, 224, 208);
+    --hex-turquoise: #40e0d0;
+    --hsl-turquoise: hsl(174, 72%, 56.1%);
+
+    --rgb-verdigris: rgb(67, 179, 174);
+    --hex-verdigris: #43b3ae;
+    --hsl-verdigris: hsl(174, 47%, 47.8%);
+
+    --rgb-vivid-sky-blue: rgb(0, 204, 255);
+    --hex-vivid-sky-blue: #00ccff;
+    --hsl-vivid-sky-blue: hsl(187, 100%, 50.2%);
+
+    --rgb-zomp: rgb(57, 167, 141);
+    --hex-zomp: #39a78d;
+    --hsl-zomp: hsl(164, 55%, 41.2%);
+
+    // Blue
+
+    --rgb-aero: rgb(0, 185, 232);
+    --hex-aero: #00b9e8;
+    --hsl-aero: hsl(191, 100%, 45.5%);
+
+    --rgb-air-force-blue: rgb(93, 138, 168);
+    --hex-air-force-blue: #5d8aa8;
+    --hsl-air-force-blue: hsl(207, 28%, 50.2%);
+
+    --rgb-air-superiority-blue: rgb(114, 160, 193);
+    --hex-air-superiority-blue: #72a0c1;
+    --hsl-air-superiority-blue: hsl(210, 40%, 57.3%);
+
+    --rgb-alice-blue: rgb(240, 248, 255);
+    --hex-alice-blue: #f0f8ff;
+    --hsl-alice-blue: hsl(208, 100%, 97.3%);
+
+    --rgb-argentinian-blue: rgb(108, 180, 238);
+    --hex-argentinian-blue: #6cb4ee;
+    --hsl-argentinian-blue: hsl(208, 84%, 68.6%);
+
+    --rgb-azure: rgb(0, 127, 255);
+    --hex-azure: #007fff;
+    --hsl-azure: hsl(210, 100%, 50%);
+
+    --rgb-azul: rgb(0, 112, 187);
+    --hex-azul: #0070bb;
+    --hsl-azul: hsl(210, 100%, 36.7%);
+
+    --rgb-baby-blue: rgb(137, 207, 240);
+    --hex-baby-blue: #89cff0;
+    --hsl-baby-blue: hsl(200, 85%, 74.9%);
+
+    --rgb-berkeley-blue: rgb(0, 50, 98);
+    --hex-berkeley-blue: #003262;
+    --hsl-berkeley-blue: hsl(210, 100%, 19.2%);
+
+    --rgb-bice-blue: rgb(32, 114, 175);
+    --hex-bice-blue: #2072af;
+    --hsl-bice-blue: hsl(204, 69%, 45.1%);
+
+    --rgb-bleu-de-france: rgb(49, 140, 231);
+    --hex-bleu-de-france: #318ce7;
+    --hsl-bleu-de-france: hsl(210, 81%, 60.2%);
+
+    --rgb-blue: rgb(0, 0, 255);
+    --hex-blue: #0000ff;
+    --hsl-blue: hsl(240, 100%, 50%);
+
+    --rgb-blue-gray: rgb(102, 153, 204);
+    --hex-blue-gray: #6699cc;
+    --hsl-blue-gray: hsl(210, 50%, 60%);
+
+    --rgb-bondi-blue: rgb(0, 149, 182);
+    --hex-bondi-blue: #0095b6;
+    --hsl-bondi-blue: hsl(190, 100%, 35.3%);
+
+    --rgb-brandeis-blue: rgb(0, 112, 255);
+    --hex-brandeis-blue: #0070ff;
+    --hsl-brandeis-blue: hsl(210, 100%, 50%);
+
+    --rgb-byzantine-blue: rgb(52, 87, 213);
+    --hex-byzantine-blue: #3457d5;
+    --hsl-byzantine-blue: hsl(222, 74%, 51.4%);
+
+    --rgb-cambridge-blue: rgb(133, 176, 154);
+    --hex-cambridge-blue: #85b09a;
+    --hsl-cambridge-blue: hsl(150, 28%, 58.4%);
+
+    --rgb-carolina-blue: rgb(123, 175, 212);
+    --hex-carolina-blue: #7bafd4;
+    --hsl-carolina-blue: hsl(204, 47%, 63.1%);
+
+    --rgb-celestial-blue: rgb(73, 151, 208);
+    --hex-celestial-blue: #4997d0;
+    --hsl-celestial-blue: hsl(204, 59%, 54.1%);
+
+    --rgb-celtic-blue: rgb(36, 107, 206);
+    --hex-celtic-blue: #246bce;
+    --hsl-celtic-blue: hsl(211, 73%, 48.2%);
+
+    --rgb-cerulean: rgb(0, 123, 167);
+    --hex-cerulean: #007ba7;
+    --hsl-cerulean: hsl(197, 100%, 32.5%);
+
+    --rgb-chefchaouen-blue: rgb(70, 143, 234);
+    --hex-chefchaouen-blue: #468fea;
+    --hsl-chefchaouen-blue: hsl(215, 82%, 58.6%);
+
+    --rgb-chrysler-blue: rgb(59, 0, 219);
+    --hex-chrysler-blue: #3b00db;
+    --hsl-chrysler-blue: hsl(257, 100%, 42.7%);
+
+    --rgb-cobalt-blue: rgb(0, 71, 171);
+    --hex-cobalt-blue: #0047ab;
+    --hsl-cobalt-blue: hsl(212, 100%, 33.5%);
+
+    --rgb-columbia-blue: rgb(185, 217, 235);
+    --hex-columbia-blue: #b9d9eb;
+    --hsl-columbia-blue: hsl(204, 56%, 82.7%);
+
+    --rgb-cornflower-blue: rgb(100, 149, 237);
+    --hex-cornflower-blue: #6495ed;
+    --hsl-cornflower-blue: hsl(219, 79%, 66.7%);
+
+    --rgb-blue-crayola: rgb(31, 117, 254);
+    --hex-blue-crayola: #1f75fe;
+    --hsl-blue-crayola: hsl(217, 98%, 54.5%);
+
+    --rgb-dark-blue: rgb(0, 0, 184);
+    --hex-dark-blue: #0000b8;
+    --hsl-dark-blue: hsl(240, 100%, 36.1%);
+
+    --rgb-delft-blue: rgb(31, 48, 94);
+    --hex-delft-blue: #1f305e;
+    --hsl-delft-blue: hsl(215, 57%, 24.1%);
+
+    --rgb-denim: rgb(21, 96, 189);
+    --hex-denim: #1560bd;
+    --hsl-denim: hsl(214, 75%, 45.9%);
+
+    --rgb-dodger-blue: rgb(30, 144, 255);
+    --hex-dodger-blue: #1e90ff;
+    --hsl-dodger-blue: hsl(210, 100%, 55.9%);
+
+    --rgb-duke-blue: rgb(0, 0, 156);
+    --hex-duke-blue: #00009c;
+    --hsl-duke-blue: hsl(240, 100%, 30.6%);
+
+    --rgb-egyptian-blue: rgb(16, 52, 166);
+    --hex-egyptian-blue: #1034a6;
+    --hsl-egyptian-blue: hsl(219, 85%, 35.7%);
+
+    --rgb-federal-blue: rgb(22, 22, 107);
+    --hex-federal-blue: #16166b;
+    --hsl-federal-blue: hsl(240, 80%, 27.1%);
+
+    --rgb-glaucous: rgb(96, 130, 182);
+    --hex-glaucous: #6082b6;
+    --hsl-glaucous: hsl(211, 35%, 54.1%);
+
+    --rgb-green-blue: rgb(17, 100, 180);
+    --hex-green-blue: #1164b4;
+    --hsl-green-blue: hsl(210, 84%, 42.9%);
+
+    --rgb-electric-indigo: rgb(111, 0, 255);
+    --hex-electric-indigo: #6f00ff;
+    --hsl-electric-indigo: hsl(270, 100%, 50.2%);
+
+    --rgb-french-blue: rgb(0, 114, 187);
+    --hex-french-blue: #0072bb;
+    --hsl-french-blue: hsl(210, 100%, 37.3%);
+
+    --rgb-ice-blue: rgb(153, 255, 255);
+    --hex-ice-blue: #99ffff;
+    --hsl-ice-blue: hsl(180, 100%, 80.4%);
+
+    --rgb-indigo: rgb(75, 0, 130);
+    --hex-indigo: #4b0082;
+    --hsl-indigo: hsl(240, 100%, 25.5%);
+
+    --rgb-indigo-dye: rgb(0, 65, 106);
+    --hex-indigo-dye: #00416a;
+    --hsl-indigo-dye: hsl(210, 100%, 26.3%);
+
+    --rgb-international-klein-blue: rgb(0, 47, 167);
+    --hex-international-klein-blue: #002fa7;
+    --hsl-international-klein-blue: hsl(224, 100%, 32.7%);
+
+    --rgb-jordy-blue: rgb(138, 185, 241);
+    --hex-jordy-blue: #8ab9f1;
+    --hsl-jordy-blue: hsl(210, 80%, 79.6%);
+
+    --rgb-lapis-lazuli: rgb(38, 97, 156);
+    --hex-lapis-lazuli: #26619c;
+    --hsl-lapis-lazuli: hsl(207, 63%, 40.8%);
+
+    --rgb-light-blue: rgb(173, 216, 230);
+    --hex-light-blue: #add8e6;
+    --hsl-light-blue: hsl(194, 53%, 79.6%);
+
+    --rgb-light-sky-blue: rgb(135, 206, 250);
+    --hex-light-sky-blue: #87cefa;
+    --hsl-light-sky-blue: hsl(197, 92%, 74.5%);
+
+    --rgb-majorelle-blue: rgb(96, 80, 220);
+    --hex-majorelle-blue: #6050dc;
+    --hsl-majorelle-blue: hsl(238, 72%, 58.4%);
+
+    --rgb-marian-blue: rgb(43, 69, 147);
+    --hex-marian-blue: #2b4593;
+    --hsl-marian-blue: hsl(218, 58%, 38.8%);
+
+    --rgb-maya-blue: rgb(115, 194, 251);
+    --hex-maya-blue: #73c2fb;
+    --hsl-maya-blue: hsl(200, 94%, 75.1%);
+
+    --rgb-medium-blue: rgb(0, 0, 205);
+    --hex-medium-blue: #0000cd;
+    --hsl-medium-blue: hsl(240, 100%, 40.2%);
+
+    --rgb-medium-slate-blue: rgb(123, 104, 238);
+    --hex-medium-slate-blue: #7b68ee;
+    --hsl-medium-slate-blue: hsl(240, 80%, 67.8%);
+
+    --rgb-midnight-blue: rgb(25, 25, 112);
+    --hex-midnight-blue: #191970;
+    --hsl-midnight-blue: hsl(240, 66%, 27.5%);
+
+    --rgb-blue-munsell: rgb(0, 147, 175);
+    --hex-blue-munsell: #0093af;
+    --hsl-blue-munsell: hsl(191, 100%, 34.5%);
+
+    --rgb-navy-blue: rgb(0, 0, 128);
+    --hex-navy-blue: #000080;
+    --hsl-navy-blue: hsl(240, 100%, 25.1%);
+
+    --rgb-blue-ncs: rgb(0, 135, 189);
+    --hex-blue-ncs: #0087bd;
+    --hsl-blue-ncs: hsl(200, 100%, 37.1%);
+
+    --rgb-neon-blue: rgb(70, 102, 255);
+    --hex-neon-blue: #4666ff;
+    --hsl-neon-blue: hsl(227, 100%, 62.3%);
+
+    --rgb-non-photo-blue: rgb(164, 221, 237);
+    --hex-non-photo-blue: #a4dded;
+    --hsl-non-photo-blue: hsl(193, 73%, 78.4%);
+
+    --rgb-oxford-blue: rgb(0, 33, 71);
+    --hex-oxford-blue: #002147;
+    --hsl-oxford-blue: hsl(210, 100%, 14.1%);
+
+    --rgb-palatinate-blue: rgb(39, 59, 226);
+    --hex-palatinate-blue: #273be2;
+    --hsl-palatinate-blue: hsl(225, 86%, 54.9%);
+
+    --rgb-pale-azure: rgb(135, 211, 248);
+    --hex-pale-azure: #87d3f8;
+    --hsl-pale-azure: hsl(197, 84%, 77.1%);
+
+    --rgb-penn-blue: rgb(1, 31, 91);
+    --hex-penn-blue: #011f5b;
+    --hsl-penn-blue: hsl(217, 98%, 17.9%);
+
+    --rgb-periwinkle: rgb(204, 204, 255);
+    --hex-periwinkle: #ccccff;
+    --hsl-periwinkle: hsl(240, 100%, 85.1%);
+
+    --rgb-persian-blue: rgb(28, 57, 187);
+    --hex-persian-blue: #1c39bb;
+    --hsl-persian-blue: hsl(225, 82%, 44.1%);
+
+    --rgb-phthalo-blue: rgb(0, 15, 137);
+    --hex-phthalo-blue: #000f89;
+    --hsl-phthalo-blue: hsl(225, 100%, 27.1%);
+
+    --rgb-picton-blue: rgb(69, 177, 232);
+    --hex-picton-blue: #45b1e8;
+    --hsl-picton-blue: hsl(200, 81%, 65.9%);
+
+    --rgb-polynesian-blue: rgb(34, 76, 152);
+    --hex-polynesian-blue: #224c98;
+    --hsl-polynesian-blue: hsl(210, 60%, 41.6%);
+
+    --rgb-powder-blue: rgb(158, 185, 212);
+    --hex-powder-blue: #9eb9d4;
+    --hsl-powder-blue: hsl(210, 39%, 70.6%);
+
+    --rgb-prussian-blue: rgb(0, 49, 83);
+    --hex-prussian-blue: #003153;
+    --hsl-prussian-blue: hsl(210, 100%, 16.5%);
+
+    --rgb-resolution-blue: rgb(0, 35, 135);
+    --hex-resolution-blue: #002387;
+    --hsl-resolution-blue: hsl(225, 100%, 26.5%);
+
+    --rgb-risd-blue: rgb(36, 84, 255);
+    --hex-risd-blue: #2454ff;
+    --hsl-risd-blue: hsl(227, 100%, 55.1%);
+
+    --rgb-royal-blue-web: rgb(65, 105, 225);
+    --hex-royal-blue-web: #4169e1;
+    --hsl-royal-blue-web: hsl(225, 73%, 57.1%);
+
+    --rgb-royal-blue-traditional: rgb(0, 35, 102);
+    --hex-royal-blue-traditional: #002366;
+    --hsl-royal-blue-traditional: hsl(225, 100%, 20%);
+
+    --rgb-ruddy-blue: rgb(118, 171, 223);
+    --hex-ruddy-blue: #76abdf;
+    --hsl-ruddy-blue: hsl(214, 60%, 70.2%);
+
+    --rgb-sapphire: rgb(15, 82, 186);
+    --hex-sapphire: #0f52ba;
+    --hsl-sapphire: hsl(210, 83%, 43.3%);
+
+    --rgb-honolulu-blue: rgb(0, 118, 182);
+    --hex-honolulu-blue: #0076b6;
+    --hsl-honolulu-blue: hsl(204, 100%, 35.7%);
+
+    --rgb-savoy-blue: rgb(75, 97, 209);
+    --hex-savoy-blue: #4b61d1;
+    --hsl-savoy-blue: hsl(223, 69%, 55.1%);
+
+    --rgb-silver-lake-blue: rgb(93, 137, 186);
+    --hex-silver-lake-blue: #5d89ba;
+    --hsl-silver-lake-blue: hsl(210, 42%, 56.5%);
+
+    --rgb-sky-blue: rgb(135, 206, 235);
+    --hex-sky-blue: #87ceeb;
+    --hsl-sky-blue: hsl(197, 71%, 72.5%);
+
+    --rgb-space-cadet: rgb(30, 41, 82);
+    --hex-space-cadet: #1e2952;
+    --hsl-space-cadet: hsl(220, 51%, 22.4%);
+
+    --rgb-steel-blue: rgb(70, 130, 180);
+    --hex-steel-blue: #4682b4;
+    --hsl-steel-blue: hsl(207, 44%, 49.8%);
+
+    --rgb-tang-blue: rgb(0, 89, 207);
+    --hex-tang-blue: #0059cf;
+    --hsl-tang-blue: hsl(214.2, 100%, 40.59%);
+
+    --rgb-true-blue: rgb(45, 104, 196);
+    --hex-true-blue: #2d68c4;
+    --hsl-true-blue: hsl(211, 66%, 47.8%);
+
+    --rgb-tufts-blue: rgb(62, 142, 222);
+    --hex-tufts-blue: #3e8ede;
+    --hsl-tufts-blue: hsl(207, 72%, 55.3%);
+
+    --rgb-ucla-blue: rgb(39, 116, 174);
+    --hex-ucla-blue: #2774ae;
+    --hsl-ucla-blue: hsl(207, 64%, 44.1%);
+
+    --rgb-ultramarine: rgb(18, 10, 143);
+    --hex-ultramarine: #120a8f;
+    --hsl-ultramarine: hsl(240, 87%, 28.6%);
+
+    --rgb-united-nations-blue: rgb(75, 146, 219);
+    --hex-united-nations-blue: #4b92db;
+    --hsl-united-nations-blue: hsl(210, 69%, 58.6%);
+
+    --rgb-uranian-blue: rgb(175, 219, 245);
+    --hex-uranian-blue: #afdbf5;
+    --hsl-uranian-blue: hsl(198, 88%, 84.3%);
+
+    --rgb-violet-blue: rgb(50, 74, 178);
+    --hex-violet-blue: #324ab2;
+    --hsl-violet-blue: hsl(225, 58%, 47.1%);
+
+    --rgb-vista-blue: rgb(124, 158, 217);
+    --hex-vista-blue: #7c9ed9;
+    --hsl-vista-blue: hsl(210, 57%, 65.9%);
+
+    --rgb-yale-blue: rgb(0, 53, 107);
+    --hex-yale-blue: #00356b;
+    --hsl-yale-blue: hsl(210, 100%, 21.6%);
+
+    --rgb-yinmn-blue: rgb(46, 80, 144);
+    --hex-yinmn-blue: #2e5090;
+    --hsl-yinmn-blue: hsl(217, 55%, 38.4%);
+
+    --rgb-zaffre: rgb(0, 20, 168);
+    --hex-zaffre: #0014a8;
+    --hsl-zaffre: hsl(240, 100%, 32.9%);
+
+    // Violet
+
+    --rgb-african-violet: rgb(178, 132, 190);
+    --hex-african-violet: #b284be;
+    --hsl-african-violet: hsl(280, 34%, 63.1%);
+
+    --rgb-amethyst: rgb(153, 102, 204);
+    --hex-amethyst: #9966cc;
+    --hsl-amethyst: hsl(270, 60%, 60.8%);
+
+    --rgb-blue-violet: rgb(138, 43, 226);
+    --hex-blue-violet: #8a2be2;
+    --hsl-blue-violet: hsl(270, 76%, 53.9%);
+
+    --rgb-burgundy: rgb(128, 0, 32);
+    --hex-burgundy: #800020;
+    --hsl-burgundy: hsl(345, 100%, 25.1%);
+
+    --rgb-byzantium: rgb(112, 41, 99);
+    --hex-byzantium: #702963;
+    --hsl-byzantium: hsl(320, 47%, 34.9%);
+
+    --rgb-caput-mortuum: rgb(89, 39, 32);
+    --hex-caput-mortuum: #592720;
+    --hsl-caput-mortuum: hsl(10, 46.7%, 27.3%);
+
+    --rgb-cerise: rgb(222, 49, 99);
+    --hex-cerise: #de3163;
+    --hsl-cerise: hsl(345, 77%, 53.9%);
+
+    --rgb-chinese-violet: rgb(133, 96, 136);
+    --hex-chinese-violet: #856088;
+    --hsl-chinese-violet: hsl(300, 19%, 46.7%);
+
+    --rgb-dark-purple: rgb(48, 25, 52);
+    --hex-dark-purple: #301934;
+    --hsl-dark-purple: hsl(309, 32%, 17.3%);
+
+    --rgb-dark-violet: rgb(148, 0, 211);
+    --hex-dark-violet: #9400d3;
+    --hsl-dark-violet: hsl(282, 100%, 41.6%);
+
+    --rgb-eggplant: rgb(97, 64, 81);
+    --hex-eggplant: #614051;
+    --hsl-eggplant: hsl(320, 21%, 27.3%);
+
+    --rgb-electric-purple: rgb(191, 0, 255);
+    --hex-electric-purple: #bf00ff;
+    --hsl-electric-purple: hsl(282, 100%, 50.2%);
+
+    --rgb-electric-violet: rgb(143, 0, 255);
+    --hex-electric-violet: #8f00ff;
+    --hsl-electric-violet: hsl(270, 100%, 50.2%);
+
+    --rgb-english-violet: rgb(86, 60, 92);
+    --hex-english-violet: #563c5c;
+    --hsl-english-violet: hsl(312, 21%, 29.4%);
+
+    --rgb-eminence: rgb(108, 48, 130);
+    --hex-eminence: #6c3082;
+    --hsl-eminence: hsl(295, 38%, 35.3%);
+
+    --rgb-fairy-tale: rgb(242, 193, 209);
+    --hex-fairy-tale: #f2c1d1;
+    --hsl-fairy-tale: hsl(10, 76%, 84.7%);
+
+    --rgb-fandango: rgb(181, 51, 137);
+    --hex-fandango: #b53389;
+    --hsl-fandango: hsl(320, 59%, 45.9%);
+
+    --rgb-french-mauve: rgb(212, 115, 212);
+    --hex-french-mauve: #d473d4;
+    --hsl-french-mauve: hsl(300, 50%, 68.2%);
+
+    --rgb-french-violet: rgb(136, 6, 206);
+    --hex-french-violet: #8806ce;
+    --hsl-french-violet: hsl(273, 93%, 49.4%);
+
+    --rgb-fuchsia: rgb(255, 0, 255);
+    --hex-fuchsia: #ff00ff;
+    --hsl-fuchsia: hsl(300, 100%, 50%);
+
+    --rgb-grape: rgb(111, 45, 168);
+    --hex-grape: #6f2da8;
+    --hsl-grape: hsl(270, 52%, 39.8%);
+
+    --rgb-heliotrope: rgb(223, 115, 255);
+    --hex-heliotrope: #df73ff;
+    --hsl-heliotrope: hsl(300, 100%, 76.1%);
+
+    --rgb-indigo: rgb(75, 0, 130);
+    --hex-indigo: #4b0082;
+    --hsl-indigo: hsl(274.62, 100%, 25.49%);
+
+    --rgb-iris: rgb(90, 79, 207);
+    --hex-iris: #5a4fcf;
+    --hsl-iris: hsl(245.16, 57.14%, 56.08%);
+
+    --rgb-japanese-violet: rgb(91, 50, 86);
+    --hex-japanese-violet: #5b3256;
+    --hsl-japanese-violet: hsl(324, 32%, 29.6%);
+
+    --rgb-lavender-blush: rgb(255, 240, 245);
+    --hex-lavender-blush: #fff0f5;
+    --hsl-lavender-blush: hsl(340, 100%, 97.1%);
+
+    --rgb-lavender-floral: rgb(181, 126, 220);
+    --hex-lavender-floral: #b57edc;
+    --hsl-lavender-floral: hsl(270, 56%, 70.2%);
+
+    --rgb-lavender-web: rgb(230, 230, 250);
+    --hex-lavender-web: #e6e6fa;
+    --hsl-lavender-web: hsl(240, 67%, 94.1%);
+
+    --rgb-lilac: rgb(200, 162, 200);
+    --hex-lilac: #c8a2c8;
+    --hsl-lilac: hsl(300, 29%, 70.2%);
+
+    --rgb-majorelle-blue: rgb(96, 80, 220);
+    --hex-majorelle-blue: #6050dc;
+    --hsl-majorelle-blue: hsl(246.86, 66.67%, 58.82%);
+
+    --rgb-magenta: rgb(255, 0, 255);
+    --hex-magenta: #FF00FF;
+    --hsl-magenta: hsl(300, 100%, 50%);
+
+    --rgb-mardi-gras: rgb(136, 0, 133);
+    --hex-mardi-gras: #880085;
+    --hsl-mardi-gras: hsl(301.32, 100%, 26.67%);
+
+    --rgb-mauve: rgb(224, 176, 255);
+    --hex-mauve: #e0b0ff;
+    --hsl-mauve: hsl(270, 100%, 83.1%);
+
+    --rgb-mauveine: rgb(141, 2, 155);
+    --hex-mauveine: #8d029b;
+    --hsl-mauveine: hsl(300, 98%, 30.2%);
+
+    --rgb-medium-slate-blue: rgb(123, 104, 238);
+    --hex-medium-slate-blue: #7b68ee;
+    --hsl-medium-slate-blue: hsl(248.51, 79.76%, 67.06%);
+
+    --rgb-mountbatten-pink: rgb(153, 122, 141);
+    --hex-mountbatten-pink: #997a8d;
+    --hsl-mountbatten-pink: hsl(330, 18%, 47.3%);
+
+    --rgb-mulberry: rgb(197, 75, 140);
+    --hex-mulberry: #c54b8c;
+    --hsl-mulberry: hsl(320, 53%, 48.6%);
+
+    --rgb-murrey: rgb(139, 0, 75);
+    --hex-murrey: #8b004b;
+    --hsl-murrey: hsl(320, 100%, 27.3%);
+
+    --rgb-orchid: rgb(218, 112, 214);
+    --hex-orchid: #da70d6;
+    --hsl-orchid: hsl(307, 59%, 63.9%);
+
+    --rgb-palatinate: rgb(104, 40, 96);
+    --hex-palatinate: #682860;
+    --hsl-palatinate: hsl(314, 41%, 32.5%);
+
+    --rgb-pale-purple: rgb(250, 230, 250);
+    --hex-pale-purple: #fae6fa;
+    --hsl-pale-purple: hsl(300, 85%, 96.1%);
+
+    --rgb-periwinkle: rgb(204, 204, 255);
+    --hex-periwinkle: #ccccff;
+    --hsl-periwinkle: hsl(240, 100%, 90%);
+
+    --rgb-persian-indigo: rgb(50, 18, 122);
+    --hex-persian-indigo: #32127a;
+    --hsl-persian-indigo: hsl(258.46, 74.29%, 27.45%);
+
+    --rgb-phlox: rgb(223, 0, 255);
+    --hex-phlox: #df00ff;
+    --hsl-phlox: hsl(292.47, 100%, 50%);
+
+    --rgb-pink-lavender: rgb(219, 178, 209);
+    --hex-pink-lavender: #dbb2d1;
+    --hsl-pink-lavender: hsl(300, 38%, 74.9%);
+
+    --rgb-plum-web: rgb(221, 160, 221);
+    --hex-plum-web: #dda0dd;
+    --hsl-plum-web: hsl(300, 47%, 74.5%);
+
+    --rgb-pomp-and-power: rgb(134, 96, 142);
+    --hex-pomp-and-power: #86608e;
+    --hsl-pomp-and-power: hsl(300, 19%, 45.9%);
+
+    --rgb-puce: rgb(204, 136, 153);
+    --hex-puce: #cc8899;
+    --hsl-puce: hsl(340, 25%, 60.4%);
+
+    --rgb-purple: rgb(128, 0, 128);
+    --hex-purple: #800080;
+    --hsl-purple: hsl(300, 100%, 25.5%);
+
+    --rgb-purpureus: rgb(154, 78, 174);
+    --hex-purpureus: #9a4eae;
+    --hsl-purpureus: hsl(287.5, 38.1%, 49.41%);
+
+    --rgb-rebecca-purple: rgb(102, 51, 153);
+    --hex-rebecca-purple: #663399;
+    --hsl-rebecca-purple: hsl(270, 50%, 40%);
+
+    --rgb-royal-purple: rgb(120, 81, 169);
+    --hex-royal-purple: #7851a9;
+    --hsl-royal-purple: hsl(266.59, 35.2%, 49.02%);
+
+    --rgb-red-violet: rgb(199, 21, 133);
+    --hex-red-violet: #c71585;
+    --hsl-red-violet: hsl(320, 72%, 47.1%);
+
+    --rgb-russian-violet: rgb(50, 23, 77);
+    --hex-russian-violet: #32174d;
+    --hsl-russian-violet: hsl(270, 54%, 19.61%);
+
+    --rgb-slate-blue: rgb(106, 90, 205);
+    --hex-slate-blue: #6a5acd;
+    --hsl-slate-blue: hsl(248, 53%, 57.1%);
+
+    --rgb-steel-pink: rgb(204, 51, 204);
+    --hex-steel-pink: #cc33cc;
+    --hsl-steel-pink: hsl(300, 60%, 50%);
+
+    --rgb-tekhelet: rgb(81, 40, 136);
+    --hex-tekhelet: #512888;
+    --hsl-tekhelet: hsl(276, 51%, 34.5%);
+
+    --rgb-thistle: rgb(216, 191, 216);
+    --hex-thistle: #d8bfd8;
+    --hsl-thistle: hsl(300, 24%, 75.3%);
+
+    --rgb-tropical-indigo: rgb(150, 131, 236);
+    --hex-tropical-indigo: #9683ec;
+    --hsl-tropical-indigo: hsl(240, 79%, 72.2%);
+
+    --rgb-tyrian-purple: rgb(102, 2, 60);
+    --hex-tyrian-purple: #66023c;
+    --hsl-tyrian-purple: hsl(336, 98%, 23.5%);
+
+    --rgb-ultra-violet: rgb(100, 83, 148);
+    --hex-ultra-violet: #645394;
+    --hsl-ultra-violet: hsl(240, 38%, 43.9%);
+
+    --rgb-veronica: rgb(160, 32, 240);
+    --hex-veronica: #a020f0;
+    --hsl-veronica: hsl(270, 100%, 58.8%);
+
+    --rgb-violet: rgb(128, 0, 255);
+    --hex-violet: #8000ff;
+    --hsl-violet: hsl(270, 100%, 50%);
+
+    --rgb-wisteria: rgb(201, 160, 220);
+    --hex-wisteria: #c9a0dc;
+    --hsl-wisteria: hsl(270, 47%, 73.9%);
+
+    // Pink
+
+    --rgb-african-violet: rgb(178, 132, 190);
+    --hex-african-violet: #b284be;
+    --hsl-african-violet: hsl(280, 34%, 63.1%);
+
+    --rgb-amaranth: rgb(229, 43, 80);
+    --hex-amaranth: #e52b50;
+    --hsl-amaranth: hsl(348.06, 78.15%, 53.33%);
+
+    --rgb-amaranth-purple: rgb(171, 39, 79);
+    --hex-amaranth-purple: #ab274f;
+    --hsl-amaranth-purple: hsl(341.82, 62.86%, 41.18%);
+
+    --rgb-baker-miller-pink: rgb(255, 145, 175);
+    --hex-baker-miller-pink: #ff91af;
+    --hsl-baker-miller-pink: hsl(343.64, 100%, 78.43%);
+
+    --rgb-cerise: rgb(222, 49, 99);
+    --hex-cerise: #de3163;
+    --hsl-cerise: hsl(345, 77%, 53.9%);
+
+    --rgb-chinese-violet: rgb(133, 96, 136);
+    --hex-chinese-violet: #856088;
+    --hsl-chinese-violet: hsl(300, 19%, 46.7%);
+
+    --rgb-crimson: rgb(220, 20, 60);
+    --hex-crimson: #dc143c;
+    --hsl-crimson: hsl(348.46, 83.33%, 47.06%);
+
+    --rgb-dark-magenta: rgb(139, 0, 139);
+    --hex-dark-magenta: #8b008b;
+    --hsl-dark-magenta: hsl(300, 100%, 27.25%);
+
+    --rgb-eggplant: rgb(97, 64, 81);
+    --hex-eggplant: #614051;
+    --hsl-eggplant: hsl(320, 21%, 27.3%);
+
+    --rgb-english-violet: rgb(86, 60, 92);
+    --hex-english-violet: #563c5c;
+    --hsl-english-violet: hsl(312, 21%, 29.4%);
+
+    --rgb-fandango: rgb(181, 51, 137);
+    --hex-fandango: #b53389;
+    --hsl-fandango: hsl(320, 59%, 45.9%);
+
+    --rgb-finn: rgb(104, 48, 104);
+    --hex-finn: #683068;
+    --hsl-finn: hsl(300, 33%, 30.6%);
+
+    --rgb-fuchsia: rgb(255, 0, 255);
+    --hex-fuchsia: #ff00ff;
+    --hsl-fuchsia: hsl(300, 100%, 50%);
+
+    --rgb-hot-magenta: rgb(255, 29, 206);
+    --hex-hot-magenta: #ff1dce;
+    --hsl-hot-magenta: hsl(315, 100%, 53.3%);
+
+    --rgb-magenta-dye: rgb(202, 31, 123);
+    --hex-magenta-dye: #ca1f7b;
+    --hsl-magenta-dye: hsl(320, 76%, 48.6%);
+
+    --rgb-magenta-cmyk: rgb(255, 0, 144);
+    --hex-magenta-cmyk: #ff0090;
+    --hsl-magenta-cmyk: hsl(326.12, 100%, 50%);
+
+    --rgb-magenta-crayola: rgb(246, 83, 166);
+    --hex-magenta-crayola: #f653a6;
+    --hsl-magenta-crayola: hsl(329.45, 90.06%, 64.51%);
+
+    --rgb-magenta-pantone: rgb(208, 65, 126);
+    --hex-magenta-pantone: #d0417e;
+    --hsl-magenta-pantone: hsl(334.41, 60.34%, 53.53%);
+
+    --rgb-magenta-haze: rgb(159, 69, 118);
+    --hex-magenta-haze: #9f4576;
+    --hsl-magenta-haze: hsl(327.33, 39.47%, 44.71%);
+
+    --rgb-mulberry: rgb(197, 75, 140);
+    --hex-mulberry: #c54b8c;
+    --hsl-mulberry: hsl(320, 53%, 48.6%);
+
+    --rgb-orchid: rgb(218, 112, 214);
+    --hex-orchid: #da70d6;
+    --hsl-orchid: hsl(307, 59%, 63.9%);
+
+    --rgb-plum: rgb(142, 69, 133);
+    --hex-plum: #8e4585;
+    --hsl-plum: hsl(323, 34%, 41.2%);
+
+    --rgb-purple: rgb(128, 0, 128);
+    --hex-purple: #800080;
+    --hsl-purple: hsl(300, 100%, 25.5%);
+
+    --rgb-purple-pizzazz: rgb(254, 78, 218);
+    --hex-purple-pizzazz: #fe4eda;
+    --hsl-purple-pizzazz: hsl(320, 99%, 69.8%);
+
+    --rgb-quinacridone-magenta: rgb(142, 58, 89);
+    --hex-quinacridone-magenta: #8e3a59;
+    --hsl-quinacridone-magenta: hsl(337.86, 42%, 39.22%);
+
+    --rgb-raspberry: rgb(227, 11, 92);
+    --hex-raspberry: #e30b5c;
+    --hsl-raspberry: hsl(330, 85%, 50.6%);
+
+    --rgb-razzle-dazzle-rose: rgb(255, 51, 204);
+    --hex-razzle-dazzle-rose: #ff33cc;
+    --hsl-razzle-dazzle-rose: hsl(320, 100%, 61.2%);
+
+    --rgb-red-violet: rgb(199, 21, 133);
+    --hex-red-violet: #c71585;
+    --hsl-red-violet: hsl(320, 72%, 47.1%);
+
+    --rgb-rose:rgb(255, 0, 128);
+    --hex-rose: #FF0080;
+    --hsl-rose: hsl(330, 100.00%, 50.00%);
+
+    --rgb-rose-pink: rgb(255, 102, 204);
+    --hex-rose-pink: #ff66cc;
+    --hsl-rose-pink: hsl(328, 100%, 71.8%);
+
+    --rgb-rose-quartz: rgb(170, 152, 169);
+    --hex-rose-quartz: #aa98a9;
+    --hsl-rose-quartz: hsl(300, 10%, 61.8%);
+
+    --rgb-shocking-pink: rgb(252, 15, 192);
+    --hex-shocking-pink: #fc0fc0;
+    --hsl-shocking-pink: hsl(322, 100%, 49.8%);
+
+    --rgb-shocking-pink-crayola: rgb(255, 111, 255);
+    --hex-shocking-pink-crayola: #ff6fff;
+    --hsl-shocking-pink-crayola: hsl(300, 100%, 82.4%);
+
+    --rgb-steel-pink: rgb(204, 51, 204);
+    --hex-steel-pink: #cc33cc;
+    --hsl-steel-pink: hsl(300, 60%, 50%);
+
+    --rgb-sky-magenta: rgb(207, 113, 175);
+    --hex-sky-magenta: #cf71af;
+    --hsl-sky-magenta: hsl(320, 38%, 62.4%);
+
+    --rgb-telemagenta: rgb(207, 52, 118);
+    --hex-telemagenta: #cf3476;
+    --hsl-telemagenta: hsl(338, 70%, 47.8%);
+
+    --rgb-violet-web-color: rgb(238, 130, 238);
+    --hex-violet-web-color: #ee82ee;
+    --hsl-violet-web-color: hsl(300, 76%, 72.2%);
+
+    --rgb-amaranth-pink: rgb(241, 156, 187);
+    --hex-amaranth-pink: #f19cbb;
+    --hsl-amaranth-pink: hsl(338, 74%, 77.3%);
+
+    --rgb-blush: rgb(222, 93, 131);
+    --hex-blush: #de5d83;
+    --hsl-blush: hsl(343, 56%, 58.8%);
+
+    --rgb-brilliant-rose:rgb(246, 83, 166);
+    --hex-brilliant-rose: #F653A6;
+    --hsl-brilliant-rose: hsl(329.45, 90.06%, 64.51%);
+
+    --rgb-brink-pink:rgb(251, 96, 127);
+    --hex-brink-pink: #FB607F;
+    --hsl-brink-pink: hsl(349.41, 94.12%, 67.25%);
+
+    --rgb-carnation-pink: rgb(255, 166, 201);
+    --hex-carnation-pink: #ffa6c9;
+    --hsl-carnation-pink: hsl(338, 100%, 79.4%);
+
+    --rgb-champagne-pink: rgb(241, 221, 207);
+    --hex-champagne-pink: #f1ddcf;
+    --hsl-champagne-pink: hsl(30, 60%, 85.1%);
+
+    --rgb-cherry-blossom-pink: rgb(255, 183, 197);
+    --hex-cherry-blossom-pink: #ffb7c5;
+    --hsl-cherry-blossom-pink: hsl(351, 100%, 82.4%);
+
+    --rgb-china-rose: rgb(168, 81, 110);
+    --hex-china-rose: #a8516e;
+    --hsl-china-rose: hsl(336, 37%, 45.5%);
+
+    --rgb-coral: rgb(255, 127, 80);
+    --hex-coral: #ff7f50;
+    --hsl-coral: hsl(16.08, 100%, 70%);
+
+    --rgb-coral-pink: rgb(248, 131, 121);
+    --hex-coral-pink: #f88379;
+    --hsl-coral-pink: hsl(5.45, 85.71%, 74.51%);
+
+    --rgb-cordovan: rgb(137, 63, 69);
+    --hex-cordovan: #893f45;
+    --hsl-cordovan: hsl(353.33, 37.5%, 40.98%);
+
+    --rgb-cyclamen: rgb(245, 111, 161);
+    --hex-cyclamen: #f56fa1;
+    --hsl-cyclamen: hsl(338, 75%, 70.2%);
+
+    --rgb-deep-pink: rgb(255, 20, 147);
+    --hex-deep-pink: #ff1493;
+    --hsl-deep-pink: hsl(328, 100%, 54.9%);
+
+    --rgb-dogwood-rose: rgb(215, 24, 104);
+    --hex-dogwood-rose: #d71868;
+    --hsl-dogwood-rose: hsl(337, 76%, 49.8%);
+
+    --rgb-fairy-tale: rgb(242, 193, 209);
+    --hex-fairy-tale: #f2c1d1;
+    --hsl-fairy-tale: hsl(10, 76%, 84.7%);
+
+    --rgb-french-rose: rgb(246, 74, 138);
+    --hex-french-rose: #f64a8a;
+    --hsl-french-rose: hsl(340, 83%, 62.4%);
+
+    --rgb-fuchsia-rose: rgb(199, 67, 117);
+    --hex-fuchsia-rose: #c74375;
+    --hsl-fuchsia-rose: hsl(338, 53%, 48.2%);
+
+    --rgb-folly: rgb(255, 0, 79);
+    --hex-folly: #ff004f;
+    --hsl-folly: hsl(341.82, 100%, 50%);
+
+    --rgb-hollywood-cerise: rgb(244, 0, 161);
+    --hex-hollywood-cerise: #f400a1;
+    --hsl-hollywood-cerise: hsl(323, 100%, 47.8%);
+
+    --rgb-hot-magenta: rgb(255, 0, 204);
+    --hex-hot-magenta: #ff00cc;
+    --hsl-hot-magenta: hsl(320, 100%, 50.2%);
+
+    --rgb-hot-pink: rgb(255, 105, 180);
+    --hex-hot-pink: #ff69b4;
+    --hsl-hot-pink: hsl(330, 100%, 71.8%);
+    
+    --rgb-lavender-blush: rgb(255, 240, 245);
+    --hex-lavender-blush: #fff0f5;
+    --hsl-lavender-blush: hsl(340, 100%, 97.1%);
+
+    --rgb-lavender-pink: rgb(251, 174, 210);
+    --hex-lavender-pink: #fbaed2;
+    --hsl-lavender-pink: hsl(327, 89%, 80.4%);
+
+    --rgb-magenta: rgb(255, 0, 255);
+    --hex-magenta: #FF00FF;
+    --hsl-magenta: hsl(300, 100%, 50%);
+
+    --rgb-mexican-pink: rgb(228, 0, 124);
+    --hex-mexican-pink: #e4007c;
+    --hsl-mexican-pink: hsl(329, 100%, 44.7%);
+
+    --rgb-mimi-pink: rgb(255, 218, 233);
+    --hex-mimi-pink: #ffdae9;
+    --hsl-mimi-pink: hsl(330, 100%, 93.3%);
+
+    --rgb-misty-rose: rgb(255, 228, 225);
+    --hex-misty-rose: #ffe4e1;
+    --hsl-misty-rose: hsl(6, 100%, 97.06%);
+
+    --rgb-mountbatten-pink: rgb(153, 122, 141);
+    --hex-mountbatten-pink: #997a8d;
+    --hsl-mountbatten-pink: hsl(330, 18%, 47.3%);
+
+    --rgb-old-rose: rgb(192, 128, 129);
+    --hex-old-rose: #c08081;
+    --hsl-old-rose: hsl(0, 33.33%, 64.12%);
+
+    --rgb-orchid-pink: rgb(242, 189, 205);
+    --hex-orchid-pink: #f2bdcd;
+    --hsl-orchid-pink: hsl(340, 75%, 84.5%);
+
+    --rgb-pale-dogwood: rgb(237, 205, 194);
+    --hex-pale-dogwood: #edcdc2;
+    --hsl-pale-dogwood: hsl(30, 51%, 81.6%);
+
+    --rgb-peach: rgb(255, 203, 164);
+    --hex-peach: #ffcba4;
+    --hsl-peach: hsl(30, 100%, 84.1%);
+
+    --rgb-persian-rose: rgb(254, 40, 162);
+    --hex-persian-rose: #fe28a2;
+    --hsl-persian-rose: hsl(324, 99%, 54.9%);
+
+    --rgb-persian-pink: rgb(247, 127, 190);
+    --hex-persian-pink: #f77fbe;
+    --hsl-persian-pink: hsl(326, 76%, 74.1%);
+
+    --rgb-phlox: rgb(223, 0, 255);
+    --hex-phlox: #df00ff;
+    --hsl-phlox: hsl(292.47, 100%, 50%);
+
+    --rgb-pink: rgb(255, 192, 203);
+    --hex-pink: #ffc0cb;
+    --hsl-pink: hsl(350, 100%, 87.1%);
+
+    --rgb-rose-pompadour: rgb(237, 122, 155);
+    --hex-rose-pompadour: #ed7a9b;
+    --hsl-rose-pompadour: hsl(340, 72%, 68.2%);
+
+    --rgb-puce: rgb(204, 136, 153);
+    --hex-puce: #cc8899;
+    --hsl-puce: hsl(340, 25%, 60.4%);
+
+    --rgb-razzmatazz: rgb(227, 37, 107);
+    --hex-razzmatazz: #e3256b;
+    --hsl-razzmatazz: hsl(336, 76%, 52.2%);
+
+    --rgb-raspberry-rose: rgb(179, 68, 108);
+    --hex-raspberry-rose: #b3446c;
+    --hsl-raspberry-rose: hsl(338, 42%, 44.9%);
+
+    --rgb-rose:rgb(255, 0, 128);
+    --hex-rose: #FF0080;
+    --hsl-rose: hsl(330, 100.00%, 50.00%);
+
+    --rgb-rose-bonbon: rgb(249, 66, 158);
+    --hex-rose-bonbon: #f9429e;
+    --hsl-rose-bonbon: hsl(331, 85%, 67.8%);
+    
+    --rgb-rose-ebony: rgb(103, 72, 70);
+    --hex-rose-ebony: #674846;
+    --hsl-rose-ebony: hsl(3.33, 19.05%, 34.12%);
+
+    --rgb-rose-red: rgb(194, 30, 86);
+    --hex-rose-red: #c21e56;
+    --hsl-rose-red: hsl(337.5, 74.07%, 44.71%);
+
+    --rgb-rose-taupe: rgb(144, 93, 93);
+    --hex-rose-taupe: #905d5d;
+    --hsl-rose-taupe: hsl(0, 21.43%, 47.25%);
+
+    --rgb-rose-vale: rgb(171, 78, 82);
+    --hex-rose-vale: #AB4E52;
+    --hsl-rose-vale: hsl(357.42, 37.35%, 48.82%);
+
+    --rgb-rosewood: rgb(101, 0, 11);
+    --hex-rosewood: #65000b;
+    --hsl-rosewood: hsl(351.43, 100%, 19.8%);
+
+    --rgb-rosy-brown: rgb(188, 143, 143);
+    --hex-rosy-brown: #bc8f8f;
+    --hsl-rosy-brown: hsl(0, 25%, 64.71%);
+
+    --rgb-salmon-pink: rgb(255, 145, 164);
+    --hex-salmon-pink: #ff91a4;
+    --hsl-salmon-pink: hsl(349.41, 100%, 80.59%);
+
+    --rgb-seashell: rgb(255, 245, 238);
+    --hex-seashell: #fff5ee;
+    --hsl-seashell: hsl(30, 100%, 97.3%);
+
+    --rgb-tea-rose:rgb(244, 194, 194);
+    --hex-tea-rose: #F4C2C2;
+    --hsl-tea-rose: hsl(0, 60.00%, 86.67%);
+
+    --rgb-tickle-me-pink: rgb(252, 137, 172);
+    --hex-tickle-me-pink: #fc89ac;
+    --hsl-tickle-me-pink: hsl(338, 91%, 76.9%);
+
+    --rgb-thulian-pink: rgb(222, 111, 161);
+    --hex-thulian-pink: #de6fa1;
+    --hsl-thulian-pink: hsl(330, 57%, 61.8%);
+
+    --rgb-ultra-pink:rgb(255, 111, 255);
+    --hex-ultra-pink: #FF6FFF;
+    --hsl-ultra-pink: hsl(300, 100.00%, 82.35%);
+
+    // White
+
+    --rgb-alabaster: rgb(237, 234, 224);
+    --hex-alabaster: #edeae0;
+    --hsl-alabaster: hsl(60, 26%, 90.2%);
+
+    --rgb-alice-blue: rgb(240, 248, 255);
+    --hex-alice-blue: #f0f8ff;
+    --hsl-alice-blue: hsl(208, 100%, 97.3%);
+
+    --rgb-anti-flash-white: rgb(242, 243, 244);
+    --hex-anti-flash-white: #f2f3f4;
+    --hsl-anti-flash-white: hsl(210, 10%, 96.5%);
+
+    --rgb-antique-white: rgb(250, 235, 215);
+    --hex-antique-white: #faebd7;
+    --hsl-antique-white: hsl(34, 77%, 91.4%);
+
+    --rgb-azure-white:rgb(240, 255, 255);
+    --hex-azure-white: #f0ffff;
+    --hsl-azure-white: hsl(180, 100.00%, 97.06%);
+
+    --rgb-baby-powder: rgb(254, 254, 250);
+    --hex-baby-powder: #fefefa;
+    --hsl-baby-powder: hsl(60, 100%, 98%);
+
+    --rgb-beige: rgb(245, 245, 220);
+    --hex-beige: #f5f5dc;
+    --hsl-beige: hsl(60, 55.56%, 91.18%);
+
+    --rgb-bone: rgb(227, 218, 201);
+    --hex-bone: #e3dac9;
+    --hsl-bone: hsl(38, 34.4%, 84.5%);
+
+    --rgb-champagne: rgb(247, 231, 206);
+    --hex-champagne: #f7e7ce;
+    --hsl-champagne: hsl(35, 70.59%, 89.02%);
+
+    --rgb-cornsilk: rgb(255, 248, 220);
+    --hex-cornsilk: #fff8dc;
+    --hsl-cornsilk: hsl(57, 100%, 93.1%);
+
+    --rgb-cosmic-latte: rgb(255, 248, 231);
+    --hex-cosmic-latte: #fff8e7;
+    --hsl-cosmic-latte: hsl(51, 100%, 94.1%);
+
+    --rgb-cream: rgb(255, 253, 208);
+    --hex-cream: #fffdd0;
+    --hsl-cream: hsl(60, 100%, 90.2%);
+
+    --rgb-dutch-white: rgb(239, 223, 187);
+    --hex-dutch-white: #efdfbb;
+    --hsl-dutch-white: hsl(50, 50%, 80.2%);
+
+    --rgb-eggshell: rgb(240, 234, 214);
+    --hex-eggshell: #f0ead6;
+    --hsl-eggshell: hsl(50, 45%, 85.1%);
+
+    --rgb-flax: rgb(238, 220, 130);
+    --hex-flax: #eedc82;
+    --hsl-flax: hsl(54, 77%, 70.2%);
+
+    --rgb-floral-white: rgb(255, 250, 240);
+    --hex-floral-white: #fffaf0;
+    --hsl-floral-white: hsl(39, 100%, 97.3%);
+
+    --rgb-ghost-white: rgb(248, 248, 255);
+    --hex-ghost-white: #f8f8ff;
+    --hsl-ghost-white: hsl(240, 100%, 98%);
+
+    --rgb-honeydew: rgb(240, 255, 240);
+    --hex-honeydew: #f0fff0;
+    --hsl-honeydew: hsl(120, 100%, 97.6%);
+
+    --rgb-isabelline: rgb(244, 240, 236);
+    --hex-isabelline: #f4f0ec;
+    --hsl-isabelline: hsl(40, 25%, 94.1%);
+
+    --rgb-ivory: rgb(255, 255, 240);
+    --hex-ivory: #fffff0;
+    --hsl-ivory: hsl(60, 100%, 97.6%);
+
+    --rgb-lavender-blush: rgb(255, 240, 245);
+    --hex-lavender-blush: #fff0f5;
+    --hsl-lavender-blush: hsl(340, 100%, 97.1%);
+
+    --rgb-lemon-chiffon: rgb(255, 250, 205);
+    --hex-lemon-chiffon: #fffacd;
+    --hsl-lemon-chiffon: hsl(54, 100%, 90.2%);
+
+    --rgb-linen: rgb(250, 240, 230);
+    --hex-linen: #faf0e6;
+    --hsl-linen: hsl(30, 67%, 94.1%);
+
+    --rgb-magnolia: rgb(248, 244, 255);
+    --hex-magnolia: #f8f4ff;
+    --hsl-magnolia: hsl(240, 100%, 97.3%);
+
+    --rgb-mint-cream: rgb(245, 255, 250);
+    --hex-mint-cream: #f5fffa;
+    --hsl-mint-cream: hsl(150, 100%, 98%);
+
+    --rgb-misty-rose: rgb(255, 228, 225);
+    --hex-misty-rose: #ffe4e1;
+    --hsl-misty-rose: hsl(6, 100%, 97.06%);
+    
+    --rgb-navajo-white: rgb(255, 222, 173);
+    --hex-navajo-white: #ffdead;
+    --hsl-navajo-white: hsl(39, 100%, 85.1%);
+
+    --rgb-nyanza: rgb(233, 255, 219);
+    --hex-nyanza: #e9ffdb;
+    --hsl-nyanza: hsl(87, 100%, 90.6%);
+
+    --rgb-old-lace: rgb(253, 245, 230);
+    --hex-old-lace: #fdf5e6;
+    --hsl-old-lace: hsl(39, 85%, 94.1%);
+
+    --rgb-papaya-whip: rgb(255, 239, 213);
+    --hex-papaya-whip: #ffefd5;
+    --hsl-papaya-whip: hsl(37.5, 100%, 91.18%);
+
+    --rgb-parchment: rgb(241, 233, 210);
+    --hex-parchment: #f1e9d2;
+    --hsl-parchment: hsl(39, 60%, 85.1%);
+
+    --rgb-peach: rgb(255, 229, 180);
+    --hex-peach: #ffe5b4;
+    --hsl-peach: hsl(39.13, 100%, 85.1%);
+
+    --rgb-pearl: rgb(234, 224, 200);
+    --hex-pearl: #eae0c8;
+    --hsl-pearl: hsl(43, 60%, 82%);
+
+    --rgb-platinum: rgb(229, 228, 226);
+    --hex-platinum: #e5e4e2;
+    --hsl-platinum: hsl(60, 4%, 89.4%);
+
+    --rgb-seasalt: rgb(247, 247, 247);
+    --hex-seasalt: #f7f7f7;
+    --hsl-seasalt: hsl(0, 0%, 97.3%);
+
+    --rgb-seashell: rgb(255, 245, 238);
+    --hex-seashell: #fff5ee;
+    --hsl-seashell: hsl(30, 100%, 97.3%);
+
+    --rgb-snow: rgb(255, 250, 250);
+    --hex-snow: #fffafa;
+    --hsl-snow: hsl(0, 100%, 99.2%);
+
+    --rgb-vanilla: rgb(243, 229, 171);
+    --hex-vanilla: #f3e5ab;
+    --hsl-vanilla: hsl(50, 84%, 81.4%);
+
+    --rgb-white: rgb(255, 255, 255);
+    --hex-white: #ffffff;
+    --hsl-white: hsl(0, 0%, 100%);
+
+    --rgb-white-smoke: rgb(245, 245, 245);
+    --hex-white-smoke: #f5f5f5;
+    --hsl-white-smoke: hsl(0, 0%, 96.1%);
+
+    // Gray
+
+    --rgb-white-smoke: rgb(245, 245, 245);
+    --hex-white-smoke: #f5f5f5;
+    --hsl-white-smoke: hsl(0, 0%, 96.1%);
+
+    --rgb-platinum: rgb(229, 228, 226);
+    --hex-platinum: #e5e4e2;
+    --hsl-platinum: hsl(60, 4%, 89.4%);
+
+    --rgb-timberwolf: rgb(219, 215, 210);
+    --hex-timberwolf: #dbd7d2;
+    --hsl-timberwolf: hsl(39, 10%, 84.9%);
+
+    --rgb-silver: rgb(192, 192, 192);
+    --hex-silver: #c0c0c0;
+    --hsl-silver: hsl(0, 0%, 75.3%);
+
+    --rgb-french-gray: rgb(190, 191, 197);
+    --hex-french-gray: #bebfc5;
+    --hsl-french-gray: hsl(210, 4%, 76.5%);
+
+    --rgb-ash-gray: rgb(178, 190, 181);
+    --hex-ash-gray: #b2beb5;
+    --hsl-ash-gray: hsl(150, 6%, 72.5%);
+
+    --rgb-rose-quartz: rgb(170, 152, 169);
+    --hex-rose-quartz: #aa98a9;
+    --hsl-rose-quartz: hsl(300, 10%, 61.8%);
+
+    --rgb-cinereous: rgb(152, 129, 123);
+    --hex-cinereous: #98817b;
+    --hsl-cinereous: hsl(20, 14%, 53.9%);
+
+    --rgb-cadet-gray: rgb(145, 163, 176);
+    --hex-cadet-gray: #91a3b0;
+    --hsl-cadet-gray: hsl(210, 13%, 60%);
+
+    --rgb-cool-gray: rgb(140, 146, 172);
+    --hex-cool-gray: #8c92ac;
+    --hsl-cool-gray: hsl(219, 13%, 59.2%);
+
+    --rgb-taupe-gray: rgb(139, 133, 137);
+    --hex-taupe-gray: #8b8589;
+    --hsl-taupe-gray: hsl(330, 3%, 52.9%);
+
+    --rgb-battleship-gray: rgb(132, 132, 130);
+    --hex-battleship-gray: #848482;
+    --hsl-battleship-gray: hsl(60, 1%, 51.8%);
+
+    --rgb-gray: rgb(128, 128, 128);
+    --hex-gray: #808080;
+    --hsl-gray: hsl(0, 0%, 50.2%);
+
+    --rgb-slate-gray: rgb(112, 128, 144);
+    --hex-slate-gray: #708090;
+    --hsl-slate-gray: hsl(210, 13%, 50.2%);
+
+    --rgb-dim-gray: rgb(105, 105, 105);
+    --hex-dim-gray: #696969;
+    --hsl-dim-gray: hsl(0, 0%, 41.2%);
+
+    --rgb-davys-gray: rgb(85, 85, 85);
+    --hex-davys-gray: #555555;
+    --hsl-davys-gray: hsl(0, 0%, 33.3%);
+
+    --rgb-paynes-gray: rgb(83, 104, 120);
+    --hex-paynes-gray: #536878;
+    --hsl-paynes-gray: hsl(195, 13%, 36.9%);
+
+    --rgb-glaucous: rgb(96, 130, 182);
+    --hex-glaucous: #6082b6;
+    --hsl-glaucous: hsl(211, 35%, 54.1%);
+
+    --rgb-gunmetal: rgb(42, 52, 57);
+    --hex-gunmetal: #2a3439;
+    --hsl-gunmetal: hsl(190, 16%, 18%);
+
+    --rgb-feldgrau: rgb(77, 93, 83);
+    --hex-feldgrau: #4d5d53;
+    --hsl-feldgrau: hsl(141, 13%, 32.9%);
+
+    --rgb-dark-slate-gray: rgb(47, 79, 79);
+    --hex-dark-slate-gray: #2f4f4f;
+    --hsl-dark-slate-gray: hsl(180, 30%, 23.5%);
+
+    // Black
+
+    --rgb-bistre: rgb(61, 43, 31);
+    --hex-bistre: #3d2b1f;
+    --hsl-bistre: hsl(24, 32.26%, 18.63%);
+
+    --rgb-black: rgb(0, 0, 0);
+    --hex-black: #000000;
+    --hsl-black: hsl(0, 0%, 0%);
+
+    --rgb-black-bean: rgb(61, 12, 2);
+    --hex-black-bean: #3d0c02;
+    --hsl-black-bean: hsl(9.6, 93.55%, 12.35%);
+
+    --rgb-black-olive: rgb(59, 60, 54);
+    --hex-black-olive: #3b3c36;
+    --hsl-black-olive: hsl(60, 5.56%, 22.35%);
+
+    --rgb-cafe-noir: rgb(75, 54, 33);
+    --hex-cafe-noir: #4b3621;
+    --hsl-cafe-noir: hsl(30, 38%, 21.8%);
+
+    --rgb-dark-purple: rgb(48, 25, 52);
+    --hex-dark-purple: #301934;
+    --hsl-dark-purple: hsl(309, 32%, 17.3%);
+
+    --rgb-charcoal: rgb(54, 69, 79);
+    --hex-charcoal: #36454f;
+    --hsl-charcoal: hsl(210, 18%, 25.1%);
+
+    --rgb-ebony: rgb(85, 93, 80);
+    --hex-ebony: #555d50;
+    --hsl-ebony: hsl(81, 10%, 31%);
+
+    --rgb-eerie-black: rgb(27, 27, 27);
+    --hex-eerie-black: #1b1b1b;
+    --hsl-eerie-black: hsl(0, 0%, 10.6%);
+
+    --rgb-jet: rgb(52, 52, 52);
+    --hex-jet: #343434;
+    --hsl-jet: hsl(0, 0%, 20.4%);
+
+    --rgb-licorice: rgb(26, 17, 16);
+    --hex-licorice: #1a1110;
+    --hsl-licorice: hsl(9, 39%, 7.8%);
+
+    --rgb-midnight-blue: rgb(25, 25, 112);
+    --hex-midnight-blue: #191970;
+    --hsl-midnight-blue: hsl(240, 66%, 27.5%);
+
+    --rgb-night: rgb(17, 17, 17);
+    --hex-night: #111111;
+    --hsl-night: hsl(0, 0%, 6.7%);
+
+    --rgb-onyx: rgb(53, 56, 57);
+    --hex-onyx: #353839;
+    --hsl-onyx: hsl(180, 3%, 21.2%);
+
+    --rgb-outer-space: rgb(65, 74, 76);
+    --hex-outer-space: #414a4c;
+    --hsl-outer-space: hsl(180, 8%, 27.1%);
+
+    --rgb-raisin-black: rgb(36, 33, 36);
+    --hex-raisin-black: #242124;
+    --hsl-raisin-black: hsl(300, 7%, 13.3%);
+
+    --rgb-rich-black: rgb(1, 11, 19);
+    --hex-rich-black: #010b13;
+    --hsl-rich-black: hsl(210, 88%, 3.1%);
+
+    --rgb-russian-violet: rgb(50, 23, 77);
+    --hex-russian-violet: #32174d;
+    --hsl-russian-violet: hsl(270, 54%, 19.61%);
+
+    --rgb-smoky-black: rgb(16, 12, 8);
+    --hex-smoky-black: #100c08;
+    --hsl-smoky-black: hsl(30, 40%, 5.1%);
+
+    --rgb-taupe: rgb(72, 60, 50);
+    --hex-taupe: #483c32;
+    --hsl-taupe: hsl(30, 14.3%, 24.1%);
+  }
